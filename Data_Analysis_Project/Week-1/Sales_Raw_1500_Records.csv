@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Customer_name,Region,Sales_person,Product_category,Product_Name,Quantity,Unit_price,Discount,Revenue,Payment_method,Delivery_status
+1001,16-06-2024,Meena Patel,South,Amit,Home Decor,Table Lamp,3,7093,0.1,21279,Upi,Delivered
+1002,18-04-2024,Meena Patel,West,Suresh,Home Decor,Table Lamp,1,1662,0.0,1662,Cash,Pending
+1003,02-06-2024,John Smith,East,Amit,Furniture,Office Chair,6,7546,0.1,45276,Upi,Delivered
+1004,18-05-2024,Meena Patel,West,Neha,Home Decor,Table Lamp,3,24984,0.1,74952,Cash,Delivered
+1005,27-02-2024,Ravi Kumar,East,Rahul,Electronics,Router,2,7101,0.1,14202,Cash,Delivered
+1006,28-02-2024,Ravi Kumar,East,Anita,Electronics,Smart Watch,5,25481,0.1,127405,Card,Delivered
+1007,28-05-2024,Meena Patel,West,Anita,Electronics,Router,6,20018,0.0,120108,Card,Delivered
+1008,05-04-2024,Ravi Kumar,South,Anita,Electronics,Smart Watch,2,5952,0.0,11904,Upi,Delivered
+1009,01-07-2024,Meena Patel,East,Suresh,Electronics,Keyboard,6,44444,0.1,266664,Card,Delivered
+1010,17-03-2024,John Smith,North,Anita,Home Decor,Table Lamp,5,2928,0.0,14640,Upi,Delivered
+1011,22-03-2024,Akash Verma,East,Anita,Electronics,Headphones,4,19022,0.0,76088,Cash,Delivered
+1012,01-03-2024,Unknown,South,Anita,Electronics,Laptop,6,14022,0.0,84132,Upi,Pending
+1013,17-03-2024,Meena Patel,North,Anita,Electronics,Mouse,6,14528,0.1,87168,Card,Delivered
+1014,30-01-2024,Pooja Singh,South,Anita,Appliances,Mixer Grinder,3,41457,0.0,124371,Cash,Delivered
+1015,26-04-2024,Unknown,East,Rahul,Furniture,Office Chair,6,50930,0.1,305580,Cash,Pending
+1016,31-03-2024,Unknown,South,Anita,Electronics,Laptop,6,1864,0.1,11184,Net Banking,Pending
+1017,14-02-2024,Pooja Singh,West,Rahul,Electronics,Headphones,5,53375,0.0,266875,Card,Pending
+1018,02-05-2024,Meena Patel,East,Rahul,Electronics,Headphones,4,43021,0.1,172084,Card,Pending
+1019,05-06-2024,Sunil,North,Rahul,Electronics,Power Bank,1,19585,0.1,19585,Cash,Delivered
+1020,13-03-2024,Ravi Kumar,East,Rahul,Furniture,Office Chair,5,19439,0.1,97195,Upi,Pending
+1021,30-01-2024,Meena Patel,north,Anita,Electronics,Power Bank,3,15896,0.1,47688,Cash,Pending
+1022,06-06-2024,Ravi Kumar,West,Anita,Home Decor,Table Lamp,2,15330,0.0,30660,Card,Pending
+1023,21-05-2024,Ravi Kumar,West,Rahul,Appliances,Mixer Grinder,6,16244,0.1,97464,Card,Delivered
+1024,02-04-2024,Pooja Singh,West,Anita,Electronics,Keyboard,4,13354,0.1,53416,Card,Delivered
+1025,18-06-2024,Unknown,north,Rahul,Electronics,Mouse,5,37409,0.1,187045,Upi,Delivered
+1026,27-01-2024,Sunil,East,Anita,Electronics,Mouse,3,5884,0.1,17652,Cash,Delivered
+1027,03-09-2024,Sunil,North,Amit,Electronics,Laptop,6,7719,0.0,46314,Upi,Pending
+1028,06-11-2024,Meena Patel,North,Rahul,Electronics,Mouse,4,1046,0.1,4184,Upi,Pending
+1029,06-06-2024,Meena Patel,East,Anita,Electronics,Keyboard,3,50751,0.1,152253,Cash,Pending
+1030,21-01-2024,Akash Verma,East,Rahul,Electronics,Headphones,1,6025,0.1,6025,Cash,Pending
+1031,02-04-2024,John Smith,West,Rahul,Furniture,Office Chair,1,13509,0.0,13509,Upi,Pending
+1032,16-05-2024,Unknown,East,Neha,Electronics,Mobile Phone,1,35503,0.1,35503,Card,Pending
+1033,15-02-2024,Pooja Singh,North,Suresh,Electronics,Power Bank,6,49887,0.0,299322,Upi,Pending
+1034,23-03-2024,Unknown,North,Anita,Electronics,Mouse,4,27628,0.1,110512,Card,Pending
+1035,19-02-2024,Sunil,East,Anita,Electronics,Keyboard,5,43522,0.1,217610,Upi,Pending
+1036,03-01-2024,Ravi Kumar,North,Anita,Furniture,Sofa Set,2,15281,0.1,30562,Upi,Pending
+1037,17-06-2024,Akash Verma,South,Neha,Electronics,Router,2,53902,0.1,107804,Net Banking,Pending
+1038,22-03-2024,Meena Patel,West,Amit,Appliances,Mixer Grinder,3,30742,0.1,92226,Card,Pending
+1039,05-04-2024,Sunil,West,Anita,Electronics,Keyboard,6,46642,0.1,279852,Cash,Pending
+1040,25-05-2024,Unknown,South,Suresh,Appliances,Mixer Grinder,2,54959,0.1,109918,Upi,Delivered
+1041,30-03-2024,Sunil,South,Anita,Furniture,Sofa Set,4,16864,0.1,67456,Card,Pending
+1042,04-01-2024,Unknown,East,Anita,Furniture,Office Chair,4,7420,0.1,29680,Card,Delivered
+1043,07-01-2024,Pooja Singh,West,Anita,Appliances,Mixer Grinder,1,15382,0.1,15382,Card,Pending
+1044,21-01-2024,Akash Verma,East,Neha,Electronics,Mobile Phone,1,31790,0.1,31790,Upi,Delivered
+1045,20-06-2024,Akash Verma,North,Neha,Electronics,Keyboard,2,411,0.0,822,Upi,Delivered
+1046,05-01-2024,John Smith,north,Suresh,Electronics,Mobile Phone,4,33685,0.1,134740,Upi,Pending
+1047,29-05-2024,Pooja Singh,South,Rahul,Furniture,Office Chair,4,4722,0.1,18888,Upi,Pending
+1048,01-04-2024,Akash Verma,West,Rahul,Electronics,Smart Watch,3,29160,0.1,87480,Upi,Pending
+1049,19-01-2024,Meena Patel,West,Suresh,Electronics,Mouse,1,33247,0.1,33247,Card,Pending
+1050,21-01-2024,John Smith,East,Neha,Electronics,Keyboard,5,33636,0.1,168180,Cash,Delivered
+1051,29-06-2024,Sunil,South,Suresh,Appliances,Mixer Grinder,4,28401,0.1,113604,Net Banking,Pending
+1052,19-01-2024,Ravi Kumar,north,Anita,Home Decor,Table Lamp,5,19928,0.1,99640,Upi,Delivered
+1053,05-11-2024,Ravi Kumar,South,Amit,Electronics,Smart Watch,5,4026,0.1,20130,Net Banking,Delivered
+1054,05-01-2024,Ravi Kumar,West,Neha,Home Decor,Table Lamp,4,5705,0.0,22820,Cash,Pending
+1055,13-05-2024,John Smith,East,Neha,Electronics,Smart Watch,3,42091,0.0,126273,Upi,Delivered
+1056,30-04-2024,Pooja Singh,South,Anita,Home Decor,Table Lamp,2,952,0.1,1904,Card,Pending
+1057,03-08-2024,Ravi Kumar,East,Amit,Home Decor,Table Lamp,6,45047,0.1,270282,Cash,Delivered
+1058,03-01-2024,Akash Verma,West,Amit,Furniture,Sofa Set,1,48500,0.1,48500,Net Banking,Pending
+1059,30-04-2024,Sunil,South,Rahul,Electronics,Mouse,2,52813,0.0,105626,Cash,Delivered
+1060,25-01-2024,Unknown,West,Neha,Electronics,Router,4,5961,0.0,23844,Cash,Pending
+1061,24-03-2024,Akash Verma,West,Amit,Furniture,Sofa Set,4,32666,0.0,130664,Cash,Delivered
+1062,15-01-2024,Pooja Singh,East,Anita,Furniture,Sofa Set,3,44543,0.1,133629,Net Banking,Pending
+1063,26-05-2024,Meena Patel,South,Neha,Electronics,Router,4,48792,0.0,195168,Card,Pending
+1064,22-02-2024,Ravi Kumar,North,Amit,Electronics,Mouse,4,54243,0.1,216972,Card,Pending
+1065,03-03-2024,Unknown,East,Neha,Furniture,Office Chair,5,50629,0.1,253145,Upi,Pending
+1066,19-06-2024,Akash Verma,East,Anita,Electronics,Power Bank,6,41447,0.0,248682,Card,Delivered
+1067,21-05-2024,John Smith,West,Amit,Furniture,Office Chair,3,12092,0.1,36276,Upi,Delivered
+1068,13-04-2024,Pooja Singh,West,Rahul,Appliances,Mixer Grinder,2,35326,0.0,70652,Net Banking,Delivered
+1069,28-05-2024,Akash Verma,West,Suresh,Electronics,Laptop,2,335,0.1,670,Cash,Pending
+1070,02-02-2024,Meena Patel,West,Anita,Electronics,Power Bank,3,7567,0.0,22701,Upi,Delivered
+1071,03-06-2024,Ravi Kumar,East,Rahul,Furniture,Office Chair,4,7914,0.1,31656,Net Banking,Delivered
+1072,14-01-2024,Unknown,East,Amit,Electronics,Mobile Phone,5,37525,0.1,187625,Card,Delivered
+1073,23-04-2024,Ravi Kumar,north,Rahul,Electronics,Headphones,3,48822,0.1,146466,Cash,Delivered
+1074,28-02-2024,Akash Verma,North,Anita,Electronics,Laptop,6,19011,0.0,114066,Upi,Pending
+1075,05-09-2024,Akash Verma,South,Anita,Electronics,Smart Watch,5,52363,0.1,261815,Card,Delivered
+1076,19-02-2024,Pooja Singh,South,Suresh,Electronics,Headphones,2,37562,0.0,75124,Net Banking,Delivered
+1077,04-12-2024,John Smith,north,Neha,Electronics,Headphones,2,21690,0.1,43380,Upi,Delivered
+1078,21-06-2024,John Smith,North,Rahul,Furniture,Sofa Set,1,415,0.0,415,Card,Pending
+1079,05-07-2024,Unknown,North,Suresh,Furniture,Office Chair,6,6476,0.1,38856,Net Banking,Pending
+1080,12-04-2024,Meena Patel,South,Anita,Electronics,Smart Watch,4,20363,0.1,81452,Net Banking,Delivered
+1081,29-06-2024,Meena Patel,South,Suresh,Electronics,Mouse,1,9009,0.1,9009,Card,Pending
+1082,24-05-2024,Ravi Kumar,South,Suresh,Electronics,Keyboard,5,53892,0.1,269460,Upi,Pending
+1083,06-04-2024,Unknown,north,Rahul,Electronics,Keyboard,2,6102,0.0,12204,Upi,Pending
+1084,26-05-2024,Akash Verma,South,Amit,Furniture,Office Chair,3,43377,0.1,130131,Net Banking,Delivered
+1085,29-04-2024,John Smith,South,Neha,Electronics,Keyboard,1,37603,0.0,37603,Cash,Delivered
+1086,03-02-2024,Ravi Kumar,East,Suresh,Furniture,Sofa Set,6,4571,0.0,27426,Upi,Delivered
+1087,04-07-2024,Pooja Singh,North,Rahul,Electronics,Headphones,1,50899,0.1,50899,Cash,Pending
+1088,04-03-2024,Ravi Kumar,East,Rahul,Appliances,Mixer Grinder,3,25899,0.1,77697,Cash,Pending
+1089,03-09-2024,Pooja Singh,East,Amit,Appliances,Mixer Grinder,4,44629,0.1,178516,Upi,Pending
+1090,15-03-2024,Sunil,East,Anita,Furniture,Office Chair,3,45323,0.1,135969,Card,Delivered
+1091,28-01-2024,John Smith,West,Anita,Appliances,Mixer Grinder,1,34000,0.0,34000,Upi,Delivered
+1092,09-03-2024,Ravi Kumar,West,Rahul,Appliances,Mixer Grinder,5,26790,0.0,133950,Upi,Pending
+1093,21-05-2024,Akash Verma,north,Neha,Electronics,Laptop,2,42172,0.0,84344,Cash,Pending
+1094,17-02-2024,Pooja Singh,north,Neha,Electronics,Smart Watch,3,9867,0.0,29601,Card,Delivered
+1095,08-02-2024,Meena Patel,West,Suresh,Electronics,Laptop,3,19270,0.0,57810,Card,Pending
+1096,24-05-2024,Meena Patel,North,Amit,Furniture,Office Chair,2,8411,0.0,16822,Net Banking,Pending
+1097,09-05-2024,John Smith,South,Anita,Appliances,Mixer Grinder,3,21201,0.1,63603,Upi,Delivered
+1098,30-04-2024,Meena Patel,East,Rahul,Electronics,Laptop,2,43042,0.1,86084,Net Banking,Delivered
+1099,21-05-2024,Ravi Kumar,West,Rahul,Electronics,Power Bank,6,14609,0.1,87654,Card,Pending
+1100,26-05-2024,Unknown,East,Anita,Furniture,Sofa Set,6,26101,0.0,156606,Upi,Pending
+1101,16-05-2024,Sunil,East,Anita,Electronics,Router,2,5438,0.1,10876,Cash,Delivered
+1102,20-02-2024,Meena Patel,East,Amit,Electronics,Mobile Phone,6,925,0.1,5550,Card,Pending
+1103,26-02-2024,Meena Patel,South,Anita,Appliances,Mixer Grinder,4,37097,0.0,148388,Card,Delivered
+1104,17-05-2024,Meena Patel,north,Anita,Electronics,Headphones,3,49435,0.1,148305,Cash,Delivered
+1105,02-04-2024,Ravi Kumar,East,Rahul,Electronics,Router,4,42484,0.1,169936,Upi,Pending
+1106,16-05-2024,Ravi Kumar,north,Rahul,Electronics,Power Bank,3,43963,0.0,131889,Upi,Delivered
+1107,06-03-2024,Sunil,West,Rahul,Furniture,Sofa Set,5,33367,0.1,166835,Upi,Pending
+1108,15-06-2024,Akash Verma,West,Anita,Electronics,Laptop,5,8872,0.1,44360,Upi,Pending
+1109,23-02-2024,Akash Verma,East,Neha,Furniture,Office Chair,2,25088,0.1,50176,Cash,Pending
+1110,04-10-2024,Ravi Kumar,East,Neha,Home Decor,Table Lamp,6,4436,0.0,26616,Cash,Pending
+1111,04-06-2024,Sunil,West,Rahul,Electronics,Mobile Phone,5,17215,0.1,86075,Cash,Pending
+1112,29-01-2024,John Smith,West,Rahul,Electronics,Keyboard,3,14804,0.0,44412,Upi,Pending
+1113,15-02-2024,Ravi Kumar,East,Anita,Electronics,Router,2,26295,0.0,52590,Cash,Delivered
+1114,03-02-2024,Pooja Singh,East,Suresh,Electronics,Smart Watch,4,32157,0.0,128628,Card,Pending
+1115,13-05-2024,Sunil,East,Rahul,Furniture,Sofa Set,2,46825,0.0,93650,Net Banking,Delivered
+1116,07-04-2024,Pooja Singh,South,Neha,Electronics,Smart Watch,1,39556,0.0,39556,Upi,Delivered
+1117,14-01-2024,Meena Patel,South,Amit,Electronics,Keyboard,4,5071,0.0,20284,Upi,Delivered
+1118,02-08-2024,Unknown,South,Anita,Electronics,Keyboard,4,5885,0.0,23540,Cash,Delivered
+1119,05-01-2024,Meena Patel,north,Suresh,Electronics,Keyboard,3,36617,0.1,109851,Card,Pending
+1120,18-03-2024,Akash Verma,East,Rahul,Electronics,Laptop,4,26404,0.1,105616,Upi,Pending
+1121,04-10-2024,Sunil,West,Anita,Electronics,Mobile Phone,4,23131,0.1,92524,Net Banking,Pending
+1122,15-01-2024,Ravi Kumar,South,Suresh,Electronics,Power Bank,5,52246,0.0,261230,Card,Delivered
+1123,02-07-2024,John Smith,South,Anita,Electronics,Smart Watch,6,24939,0.1,149634,Upi,Delivered
+1124,31-03-2024,Pooja Singh,South,Rahul,Electronics,Power Bank,2,35599,0.1,71198,Cash,Delivered
+1125,06-01-2024,Sunil,South,Rahul,Furniture,Office Chair,1,5487,0.1,5487,Net Banking,Pending
+1126,02-03-2024,Pooja Singh,South,Neha,Electronics,Mobile Phone,2,8611,0.1,17222,Card,Pending
+1127,17-04-2024,Ravi Kumar,north,Neha,Electronics,Smart Watch,5,3578,0.0,17890,Card,Delivered
+1128,14-04-2024,Ravi Kumar,South,Suresh,Electronics,Keyboard,5,28169,0.1,140845,Card,Delivered
+1129,14-01-2024,Meena Patel,East,Anita,Appliances,Mixer Grinder,2,10841,0.1,21682,Upi,Delivered
+1130,16-01-2024,Unknown,North,Anita,Appliances,Mixer Grinder,3,35599,0.0,106797,Card,Delivered
+1131,03-03-2024,Ravi Kumar,North,Suresh,Electronics,Smart Watch,3,44274,0.0,132822,Net Banking,Delivered
+1132,22-01-2024,Unknown,north,Anita,Electronics,Keyboard,1,7308,0.1,7308,Net Banking,Delivered
+1133,02-07-2024,Unknown,north,Neha,Electronics,Mobile Phone,5,40955,0.0,204775,Upi,Delivered
+1134,03-03-2024,John Smith,West,Rahul,Furniture,Office Chair,6,11623,0.0,69738,Upi,Pending
+1135,03-01-2024,Unknown,South,Anita,Electronics,Mobile Phone,6,18622,0.0,111732,Net Banking,Delivered
+1136,03-09-2024,Sunil,South,Amit,Electronics,Power Bank,4,53748,0.1,214992,Upi,Pending
+1137,27-03-2024,Pooja Singh,East,Anita,Electronics,Power Bank,6,54839,0.0,329034,Cash,Delivered
+1138,06-06-2024,John Smith,South,Amit,Electronics,Mobile Phone,4,15859,0.1,63436,Cash,Delivered
+1139,27-05-2024,Pooja Singh,West,Rahul,Electronics,Mouse,4,25296,0.1,101184,Upi,Pending
+1140,13-04-2024,Meena Patel,West,Rahul,Home Decor,Table Lamp,3,20540,0.1,61620,Cash,Pending
+1141,23-04-2024,Sunil,South,Rahul,Electronics,Smart Watch,1,5431,0.1,5431,Card,Delivered
+1142,04-02-2024,Pooja Singh,East,Neha,Home Decor,Table Lamp,4,20678,0.0,82712,Cash,Delivered
+1143,25-06-2024,Meena Patel,north,Rahul,Electronics,Smart Watch,4,29878,0.1,119512,Cash,Pending
+1144,21-03-2024,Sunil,South,Rahul,Electronics,Mobile Phone,5,5029,0.0,25145,Card,Pending
+1145,13-04-2024,Ravi Kumar,West,Rahul,Electronics,Mobile Phone,2,36441,0.0,72882,Card,Pending
+1146,20-04-2024,Sunil,West,Rahul,Electronics,Mouse,1,29100,0.1,29100,Net Banking,Delivered
+1147,23-01-2024,Pooja Singh,West,Rahul,Home Decor,Table Lamp,3,4301,0.1,12903,Upi,Delivered
+1148,22-03-2024,Pooja Singh,South,Anita,Electronics,Router,2,22175,0.1,44350,Upi,Delivered
+1149,22-04-2024,Unknown,East,Anita,Home Decor,Table Lamp,2,31338,0.0,62676,Upi,Pending
+1150,06-12-2024,John Smith,north,Rahul,Furniture,Sofa Set,6,41013,0.1,246078,Upi,Delivered
+1151,02-06-2024,Unknown,East,Rahul,Electronics,Keyboard,4,38831,0.0,155324,Upi,Pending
+1152,11-05-2024,John Smith,East,Anita,Electronics,Laptop,6,31113,0.1,186678,Cash,Delivered
+1153,01-02-2024,Pooja Singh,West,Rahul,Electronics,Smart Watch,3,24679,0.1,74037,Cash,Delivered
+1154,04-02-2024,Pooja Singh,South,Suresh,Electronics,Router,1,33596,0.1,33596,Card,Delivered
+1155,03-06-2024,Akash Verma,East,Rahul,Electronics,Headphones,4,51810,0.1,207240,Card,Delivered
+1156,01-06-2024,Ravi Kumar,West,Anita,Electronics,Router,5,35654,0.0,178270,Card,Delivered
+1157,28-03-2024,Unknown,East,Anita,Electronics,Headphones,2,23527,0.0,47054,Card,Pending
+1158,19-02-2024,Akash Verma,East,Anita,Furniture,Sofa Set,1,20253,0.1,20253,Card,Delivered
+1159,20-05-2024,Meena Patel,South,Rahul,Electronics,Laptop,1,26644,0.1,26644,Net Banking,Pending
+1160,04-07-2024,Akash Verma,East,Anita,Furniture,Office Chair,6,20157,0.1,120942,Card,Delivered
+1161,05-07-2024,Pooja Singh,East,Anita,Electronics,Headphones,4,45711,0.1,182844,Cash,Delivered
+1162,31-05-2024,Ravi Kumar,West,Neha,Electronics,Keyboard,1,34329,0.1,34329,Net Banking,Delivered
+1163,28-03-2024,Pooja Singh,West,Rahul,Electronics,Mouse,3,47539,0.1,142617,Net Banking,Pending
+1164,03-10-2024,John Smith,South,Anita,Electronics,Router,1,24558,0.1,24558,Cash,Pending
+1165,04-09-2024,Unknown,West,Anita,Electronics,Headphones,2,46721,0.0,93442,Card,Pending
+1166,13-06-2024,Akash Verma,South,Suresh,Furniture,Office Chair,2,15137,0.1,30274,Card,Delivered
+1167,06-04-2024,Ravi Kumar,north,Rahul,Electronics,Mobile Phone,1,27427,0.1,27427,Card,Delivered
+1168,01-05-2024,John Smith,north,Rahul,Electronics,Mouse,1,32987,0.0,32987,Card,Pending
+1169,14-04-2024,Ravi Kumar,North,Rahul,Furniture,Sofa Set,5,14747,0.1,73735,Card,Delivered
+1170,27-03-2024,Pooja Singh,north,Amit,Electronics,Router,4,12359,0.1,49436,Cash,Delivered
+1171,03-08-2024,Meena Patel,north,Rahul,Furniture,Sofa Set,3,37773,0.0,113319,Cash,Delivered
+1172,21-01-2024,John Smith,East,Anita,Furniture,Sofa Set,1,3268,0.1,3268,Net Banking,Delivered
+1173,20-01-2024,Meena Patel,north,Rahul,Furniture,Office Chair,6,10972,0.1,65832,Card,Delivered
+1174,06-03-2024,Unknown,West,Rahul,Electronics,Keyboard,3,44327,0.1,132981,Upi,Delivered
+1175,18-05-2024,Pooja Singh,South,Suresh,Electronics,Laptop,2,6078,0.0,12156,Upi,Delivered
+1176,05-04-2024,Meena Patel,north,Neha,Electronics,Mouse,6,42528,0.0,255168,Upi,Delivered
+1177,20-05-2024,John Smith,South,Neha,Electronics,Mobile Phone,3,14051,0.1,42153,Net Banking,Delivered
+1178,01-10-2024,Akash Verma,South,Anita,Electronics,Smart Watch,6,35498,0.0,212988,Card,Delivered
+1179,19-06-2024,John Smith,north,Rahul,Electronics,Power Bank,6,9894,0.1,59364,Net Banking,Pending
+1180,06-07-2024,Unknown,South,Neha,Electronics,Smart Watch,6,13832,0.1,82992,Cash,Pending
+1181,31-01-2024,Akash Verma,North,Suresh,Electronics,Headphones,1,36843,0.0,36843,Card,Pending
+1182,03-10-2024,Sunil,South,Anita,Electronics,Power Bank,5,31568,0.1,157840,Cash,Pending
+1183,19-05-2024,Meena Patel,north,Anita,Electronics,Mouse,6,4601,0.0,27606,Card,Pending
+1184,29-01-2024,Unknown,North,Neha,Home Decor,Table Lamp,3,38689,0.0,116067,Cash,Delivered
+1185,20-04-2024,Pooja Singh,East,Rahul,Electronics,Router,3,54101,0.1,162303,Cash,Delivered
+1186,05-08-2024,John Smith,East,Anita,Electronics,Power Bank,4,2364,0.1,9456,Cash,Delivered
+1187,13-02-2024,Ravi Kumar,north,Suresh,Electronics,Router,5,28893,0.1,144465,Upi,Pending
+1188,26-03-2024,Pooja Singh,South,Rahul,Electronics,Power Bank,3,30980,0.0,92940,Cash,Pending
+1189,02-12-2024,Akash Verma,South,Neha,Appliances,Mixer Grinder,5,24735,0.1,123675,Cash,Delivered
+1190,16-01-2024,Meena Patel,West,Anita,Electronics,Laptop,4,42694,0.0,170776,Net Banking,Pending
+1191,05-01-2024,John Smith,North,Suresh,Home Decor,Table Lamp,3,23556,0.0,70668,Upi,Pending
+1192,21-01-2024,Pooja Singh,north,Neha,Furniture,Office Chair,3,41810,0.0,125430,Upi,Pending
+1193,28-01-2024,Meena Patel,East,Amit,Electronics,Keyboard,5,29711,0.0,148555,Net Banking,Delivered
+1194,23-06-2024,Sunil,north,Neha,Electronics,Laptop,4,4809,0.0,19236,Card,Pending
+1195,23-06-2024,Unknown,South,Amit,Electronics,Laptop,1,9503,0.1,9503,Card,Pending
+1196,01-09-2024,Ravi Kumar,north,Amit,Electronics,Router,3,6118,0.1,18354,Card,Pending
+1197,18-03-2024,Meena Patel,north,Amit,Electronics,Headphones,1,6336,0.0,6336,Cash,Pending
+1198,29-02-2024,Ravi Kumar,East,Anita,Home Decor,Table Lamp,2,44438,0.1,88876,Net Banking,Pending
+1199,02-01-2024,Unknown,South,Rahul,Electronics,Headphones,5,17668,0.1,88340,Upi,Pending
+1200,02-05-2024,Ravi Kumar,South,Rahul,Home Decor,Table Lamp,3,21889,0.0,65667,Upi,Pending
+1201,01-11-2024,Meena Patel,North,Neha,Furniture,Office Chair,6,19815,0.1,118890,Card,Delivered
+1202,20-01-2024,Pooja Singh,South,Suresh,Furniture,Office Chair,4,25141,0.1,100564,Cash,Pending
+1203,01-03-2024,John Smith,North,Neha,Electronics,Mouse,2,23180,0.0,46360,Net Banking,Pending
+1204,15-05-2024,Ravi Kumar,West,Suresh,Electronics,Headphones,3,17959,0.1,53877,Upi,Pending
+1205,16-02-2024,Unknown,South,Suresh,Electronics,Headphones,3,33272,0.0,99816,Net Banking,Delivered
+1206,28-03-2024,Ravi Kumar,West,Amit,Electronics,Keyboard,4,44130,0.1,176520,Card,Delivered
+1207,16-02-2024,Ravi Kumar,north,Rahul,Electronics,Power Bank,5,29741,0.0,148705,Card,Delivered
+1208,23-04-2024,John Smith,north,Rahul,Electronics,Keyboard,4,32418,0.0,129672,Cash,Delivered
+1209,22-05-2024,Meena Patel,north,Neha,Electronics,Router,4,16003,0.1,64012,Card,Delivered
+1210,02-05-2024,Meena Patel,West,Rahul,Electronics,Router,5,45678,0.0,228390,Card,Delivered
+1211,28-04-2024,Unknown,South,Neha,Electronics,Keyboard,1,6397,0.0,6397,Card,Pending
+1212,21-03-2024,Pooja Singh,East,Suresh,Home Decor,Table Lamp,6,13282,0.1,79692,Upi,Pending
+1213,04-10-2024,Akash Verma,East,Anita,Electronics,Keyboard,1,23425,0.1,23425,Upi,Pending
+1214,09-04-2024,John Smith,West,Anita,Home Decor,Table Lamp,1,31002,0.0,31002,Cash,Pending
+1215,16-03-2024,Sunil,East,Amit,Electronics,Mouse,3,31217,0.1,93651,Upi,Delivered
+1216,20-06-2024,Unknown,West,Neha,Electronics,Laptop,3,1393,0.1,4179,Card,Pending
+1217,02-02-2024,Ravi Kumar,South,Suresh,Electronics,Laptop,5,42849,0.0,214245,Upi,Delivered
+1218,01-06-2024,Unknown,north,Anita,Furniture,Office Chair,6,17917,0.1,107502,Card,Pending
+1219,06-07-2024,Unknown,South,Anita,Appliances,Mixer Grinder,1,33882,0.0,33882,Card,Pending
+1220,04-11-2024,Ravi Kumar,East,Anita,Furniture,Office Chair,5,16989,0.0,84945,Cash,Pending
+1221,04-04-2024,John Smith,north,Amit,Electronics,Keyboard,2,18634,0.1,37268,Cash,Pending
+1222,04-07-2024,Ravi Kumar,West,Amit,Electronics,Power Bank,4,6296,0.1,25184,Card,Delivered
+1223,18-02-2024,Akash Verma,North,Suresh,Electronics,Mobile Phone,1,17723,0.1,17723,Cash,Pending
+1224,14-01-2024,Meena Patel,East,Rahul,Appliances,Mixer Grinder,3,15716,0.1,47148,Card,Delivered
+1225,17-04-2024,Pooja Singh,South,Rahul,Electronics,Keyboard,2,41654,0.1,83308,Card,Delivered
+1226,20-01-2024,Ravi Kumar,East,Suresh,Electronics,Mobile Phone,6,53935,0.0,323610,Upi,Pending
+1227,13-03-2024,John Smith,South,Anita,Furniture,Sofa Set,2,46414,0.0,92828,Card,Pending
+1228,13-04-2024,Unknown,East,Rahul,Home Decor,Table Lamp,4,33434,0.1,133736,Card,Pending
+1229,18-06-2024,Unknown,South,Neha,Electronics,Headphones,1,31809,0.1,31809,Card,Pending
+1230,13-03-2024,Ravi Kumar,West,Rahul,Furniture,Office Chair,6,37255,0.1,223530,Card,Pending
+1231,30-04-2024,Ravi Kumar,South,Neha,Electronics,Keyboard,5,27672,0.0,138360,Upi,Pending
+1232,28-04-2024,Sunil,West,Neha,Electronics,Power Bank,1,9137,0.1,9137,Net Banking,Delivered
+1233,29-06-2024,Akash Verma,East,Neha,Electronics,Power Bank,3,39200,0.1,117600,Upi,Pending
+1234,19-05-2024,Unknown,north,Amit,Electronics,Mouse,6,16275,0.0,97650,Net Banking,Delivered
+1235,04-03-2024,Akash Verma,West,Rahul,Electronics,Power Bank,5,23554,0.1,117770,Upi,Delivered
+1236,01-06-2024,Unknown,North,Amit,Electronics,Laptop,6,40038,0.0,240228,Cash,Delivered
+1237,05-09-2024,John Smith,South,Anita,Electronics,Keyboard,1,34174,0.1,34174,Upi,Pending
+1238,02-08-2024,Ravi Kumar,north,Anita,Furniture,Sofa Set,4,6986,0.1,27944,Cash,Pending
+1239,04-04-2024,Ravi Kumar,South,Anita,Furniture,Office Chair,6,34793,0.0,208758,Net Banking,Delivered
+1240,29-01-2024,Meena Patel,South,Suresh,Electronics,Router,1,40460,0.1,40460,Upi,Pending
+1241,02-06-2024,Meena Patel,north,Neha,Furniture,Office Chair,5,46921,0.1,234605,Upi,Delivered
+1242,03-11-2024,John Smith,South,Amit,Electronics,Mouse,6,28710,0.1,172260,Card,Pending
+1243,03-02-2024,Pooja Singh,South,Rahul,Furniture,Sofa Set,1,48477,0.1,48477,Upi,Pending
+1244,04-07-2024,Ravi Kumar,East,Neha,Home Decor,Table Lamp,5,11116,0.1,55580,Upi,Delivered
+1245,27-06-2024,Sunil,South,Amit,Home Decor,Table Lamp,6,42174,0.1,253044,Upi,Pending
+1246,27-03-2024,Ravi Kumar,West,Anita,Electronics,Power Bank,1,39286,0.1,39286,Upi,Pending
+1247,06-08-2024,Unknown,North,Rahul,Electronics,Mobile Phone,1,49450,0.0,49450,Card,Delivered
+1248,24-04-2024,Meena Patel,East,Anita,Electronics,Headphones,3,15245,0.1,45735,Upi,Delivered
+1249,20-04-2024,Ravi Kumar,North,Rahul,Electronics,Mouse,1,46034,0.0,46034,Upi,Pending
+1250,25-04-2024,Meena Patel,North,Rahul,Electronics,Router,6,25030,0.1,150180,Card,Pending
+1251,04-08-2024,Unknown,East,Rahul,Electronics,Keyboard,5,51613,0.1,258065,Cash,Delivered
+1252,26-03-2024,Akash Verma,North,Anita,Electronics,Router,1,7091,0.1,7091,Card,Delivered
+1253,01-04-2024,Akash Verma,West,Suresh,Electronics,Laptop,2,23916,0.1,47832,Cash,Delivered
+1254,26-01-2024,Sunil,South,Anita,Electronics,Laptop,4,53820,0.1,215280,Card,Delivered
+1255,14-04-2024,Ravi Kumar,East,Anita,Electronics,Keyboard,4,15511,0.1,62044,Upi,Delivered
+1256,02-06-2024,Ravi Kumar,East,Suresh,Electronics,Power Bank,5,10450,0.0,52250,Card,Delivered
+1257,21-05-2024,Unknown,East,Amit,Home Decor,Table Lamp,3,28853,0.0,86559,Card,Delivered
+1258,19-03-2024,Ravi Kumar,West,Amit,Furniture,Office Chair,1,16735,0.0,16735,Net Banking,Delivered
+1259,18-04-2024,Meena Patel,South,Rahul,Electronics,Laptop,6,53738,0.0,322428,Upi,Pending
+1260,05-02-2024,Unknown,North,Neha,Electronics,Headphones,6,49973,0.1,299838,Upi,Pending
+1261,18-06-2024,Pooja Singh,East,Anita,Electronics,Headphones,5,49506,0.0,247530,Upi,Delivered
+1262,06-03-2024,Akash Verma,East,Amit,Appliances,Mixer Grinder,2,8335,0.1,16670,Upi,Pending
+1263,06-12-2024,Ravi Kumar,South,Rahul,Electronics,Mobile Phone,3,27017,0.0,81051,Net Banking,Delivered
+1264,22-03-2024,Meena Patel,north,Rahul,Electronics,Headphones,2,27832,0.0,55664,Cash,Pending
+1265,01-01-2024,Meena Patel,East,Amit,Furniture,Office Chair,2,5013,0.1,10026,Card,Delivered
+1266,27-02-2024,Unknown,South,Rahul,Furniture,Office Chair,6,53530,0.0,321180,Card,Pending
+1267,27-03-2024,Unknown,north,Neha,Electronics,Headphones,1,36246,0.0,36246,Card,Delivered
+1268,15-06-2024,John Smith,West,Anita,Furniture,Sofa Set,3,53069,0.1,159207,Card,Pending
+1269,29-04-2024,John Smith,East,Anita,Electronics,Laptop,1,44002,0.0,44002,Upi,Pending
+1270,29-02-2024,Unknown,north,Rahul,Electronics,Headphones,4,44259,0.1,177036,Upi,Pending
+1271,20-04-2024,Sunil,North,Anita,Electronics,Mouse,1,44387,0.1,44387,Card,Delivered
+1272,06-05-2024,John Smith,West,Rahul,Electronics,Smart Watch,2,15069,0.1,30138,Cash,Delivered
+1273,21-05-2024,Sunil,South,Amit,Electronics,Smart Watch,5,502,0.0,2510,Upi,Delivered
+1274,14-05-2024,Sunil,North,Rahul,Electronics,Mobile Phone,3,54702,0.1,164106,Card,Delivered
+1275,03-02-2024,Akash Verma,East,Rahul,Home Decor,Table Lamp,4,26935,0.1,107740,Cash,Pending
+1276,21-05-2024,Akash Verma,East,Rahul,Home Decor,Table Lamp,2,33851,0.1,67702,Net Banking,Delivered
+1277,29-03-2024,Ravi Kumar,South,Anita,Electronics,Smart Watch,2,52628,0.0,105256,Cash,Pending
+1278,18-02-2024,Meena Patel,North,Suresh,Furniture,Sofa Set,3,47372,0.1,142116,Upi,Delivered
+1279,18-02-2024,Sunil,North,Rahul,Furniture,Office Chair,4,8304,0.1,33216,Cash,Pending
+1280,05-09-2024,John Smith,East,Neha,Electronics,Power Bank,2,22996,0.1,45992,Net Banking,Pending
+1281,15-06-2024,Akash Verma,East,Suresh,Electronics,Keyboard,3,25603,0.1,76809,Cash,Delivered
+1282,04-10-2024,Meena Patel,north,Neha,Electronics,Smart Watch,2,23706,0.0,47412,Upi,Delivered
+1283,01-02-2024,John Smith,North,Neha,Electronics,Power Bank,3,4621,0.1,13863,Upi,Pending
+1284,28-01-2024,Pooja Singh,West,Neha,Electronics,Power Bank,1,15721,0.1,15721,Card,Pending
+1285,06-03-2024,Pooja Singh,West,Neha,Appliances,Mixer Grinder,5,32120,0.1,160600,Cash,Delivered
+1286,02-02-2024,Unknown,East,Anita,Electronics,Headphones,6,32078,0.0,192468,Card,Delivered
+1287,16-02-2024,John Smith,West,Rahul,Electronics,Headphones,5,40673,0.1,203365,Upi,Delivered
+1288,06-03-2024,Meena Patel,West,Anita,Furniture,Sofa Set,4,25433,0.1,101732,Upi,Pending
+1289,01-07-2024,Sunil,North,Anita,Electronics,Power Bank,1,1862,0.1,1862,Upi,Pending
+1290,29-06-2024,Pooja Singh,South,Neha,Appliances,Mixer Grinder,4,50736,0.1,202944,Upi,Pending
+1291,22-04-2024,Sunil,North,Rahul,Electronics,Mobile Phone,6,30743,0.1,184458,Card,Pending
+1292,23-01-2024,Meena Patel,East,Anita,Electronics,Router,6,45894,0.1,275364,Card,Delivered
+1293,22-02-2024,Sunil,West,Suresh,Home Decor,Table Lamp,6,35818,0.1,214908,Net Banking,Delivered
+1294,28-01-2024,Pooja Singh,South,Anita,Electronics,Keyboard,3,16884,0.0,50652,Net Banking,Delivered
+1295,23-06-2024,Meena Patel,West,Rahul,Electronics,Smart Watch,5,52491,0.1,262455,Net Banking,Pending
+1296,01-05-2024,Meena Patel,North,Suresh,Electronics,Keyboard,1,4239,0.0,4239,Upi,Delivered
+1297,17-02-2024,Unknown,South,Suresh,Electronics,Mobile Phone,1,15024,0.1,15024,Net Banking,Delivered
+1298,05-06-2024,Unknown,East,Suresh,Electronics,Smart Watch,3,50444,0.0,151332,Card,Pending
+1299,22-04-2024,John Smith,North,Anita,Home Decor,Table Lamp,5,54792,0.1,273960,Card,Pending
+1300,04-09-2024,Pooja Singh,North,Anita,Electronics,Mouse,6,29769,0.0,178614,Upi,Delivered
+1301,02-11-2024,Meena Patel,South,Anita,Electronics,Mouse,3,15415,0.1,46245,Upi,Delivered
+1302,26-05-2024,Pooja Singh,West,Anita,Appliances,Mixer Grinder,6,48071,0.0,288426,Net Banking,Delivered
+1303,14-04-2024,Meena Patel,East,Neha,Electronics,Router,3,46266,0.0,138798,Cash,Pending
+1304,17-05-2024,Ravi Kumar,north,Neha,Electronics,Headphones,3,3405,0.0,10215,Upi,Pending
+1305,25-03-2024,Ravi Kumar,East,Rahul,Appliances,Mixer Grinder,4,29260,0.0,117040,Upi,Pending
+1306,23-06-2024,Sunil,North,Anita,Electronics,Smart Watch,5,3592,0.1,17960,Upi,Delivered
+1307,19-03-2024,Ravi Kumar,north,Rahul,Electronics,Mobile Phone,4,39284,0.1,157136,Card,Pending
+1308,10-02-2024,Ravi Kumar,East,Anita,Electronics,Laptop,2,5963,0.0,11926,Card,Pending
+1309,21-06-2024,Meena Patel,East,Anita,Electronics,Power Bank,2,34814,0.1,69628,Card,Pending
+1310,03-04-2024,John Smith,East,Anita,Electronics,Keyboard,1,16927,0.1,16927,Net Banking,Delivered
+1311,15-06-2024,John Smith,West,Rahul,Electronics,Headphones,5,49749,0.1,248745,Net Banking,Pending
+1312,04-06-2024,Sunil,West,Anita,Electronics,Power Bank,5,18092,0.0,90460,Upi,Pending
+1313,26-01-2024,Sunil,South,Rahul,Electronics,Power Bank,4,40592,0.0,162368,Card,Pending
+1314,14-05-2024,Unknown,East,Rahul,Appliances,Mixer Grinder,6,54555,0.1,327330,Cash,Pending
+1315,26-01-2024,Meena Patel,East,Rahul,Electronics,Mobile Phone,6,19532,0.1,117192,Net Banking,Pending
+1316,29-01-2024,Meena Patel,West,Anita,Electronics,Mouse,3,30838,0.0,92514,Upi,Pending
+1317,27-01-2024,Pooja Singh,South,Anita,Electronics,Mouse,2,51306,0.1,102612,Net Banking,Pending
+1318,28-03-2024,Unknown,north,Rahul,Electronics,Mobile Phone,2,9930,0.0,19860,Net Banking,Pending
+1319,17-06-2024,Unknown,South,Rahul,Appliances,Mixer Grinder,3,32770,0.0,98310,Card,Delivered
+1320,02-04-2024,Akash Verma,north,Rahul,Electronics,Mobile Phone,2,44907,0.1,89814,Upi,Delivered
+1321,03-08-2024,Meena Patel,north,Anita,Home Decor,Table Lamp,6,22114,0.0,132684,Upi,Delivered
+1322,01-04-2024,Pooja Singh,East,Anita,Electronics,Power Bank,1,23764,0.1,23764,Card,Delivered
+1323,02-07-2024,Pooja Singh,North,Rahul,Electronics,Keyboard,2,20177,0.1,40354,Upi,Delivered
+1324,23-02-2024,Sunil,South,Neha,Electronics,Headphones,5,35677,0.1,178385,Upi,Pending
+1325,21-01-2024,Pooja Singh,north,Rahul,Electronics,Laptop,3,44211,0.1,132633,Card,Pending
+1326,03-05-2024,Pooja Singh,West,Neha,Furniture,Sofa Set,1,46869,0.1,46869,Cash,Pending
+1327,20-04-2024,Ravi Kumar,East,Rahul,Electronics,Mobile Phone,4,40909,0.1,163636,Card,Pending
+1328,09-06-2024,Unknown,North,Rahul,Electronics,Router,2,1756,0.0,3512,Card,Pending
+1329,11-06-2024,Meena Patel,north,Anita,Furniture,Office Chair,5,30910,0.1,154550,Card,Pending
+1330,15-04-2024,Unknown,South,Amit,Electronics,Laptop,3,9842,0.1,29526,Net Banking,Delivered
+1331,01-08-2024,Meena Patel,north,Suresh,Home Decor,Table Lamp,3,25138,0.0,75414,Net Banking,Pending
+1332,18-01-2024,Akash Verma,South,Rahul,Electronics,Headphones,6,22698,0.0,136188,Net Banking,Pending
+1333,02-10-2024,John Smith,West,Neha,Furniture,Office Chair,4,5529,0.0,22116,Upi,Delivered
+1334,24-03-2024,Pooja Singh,South,Anita,Electronics,Router,2,11798,0.0,23596,Upi,Pending
+1335,05-10-2024,Pooja Singh,South,Neha,Home Decor,Table Lamp,5,36227,0.0,181135,Upi,Pending
+1336,24-05-2024,Unknown,South,Suresh,Furniture,Office Chair,2,10649,0.1,21298,Card,Delivered
+1337,19-02-2024,Ravi Kumar,West,Neha,Electronics,Router,4,33790,0.0,135160,Cash,Delivered
+1338,21-05-2024,Ravi Kumar,South,Suresh,Electronics,Laptop,1,6650,0.1,6650,Cash,Pending
+1339,03-02-2024,John Smith,North,Rahul,Furniture,Sofa Set,4,11110,0.0,44440,Cash,Pending
+1340,05-06-2024,Unknown,East,Amit,Home Decor,Table Lamp,3,42494,0.1,127482,Net Banking,Pending
+1341,01-06-2024,Unknown,East,Rahul,Furniture,Sofa Set,4,1074,0.1,4296,Upi,Delivered
+1342,15-01-2024,Meena Patel,South,Amit,Electronics,Power Bank,3,22445,0.0,67335,Net Banking,Delivered
+1343,23-03-2024,Sunil,West,Rahul,Electronics,Mouse,6,21525,0.1,129150,Cash,Pending
+1344,15-06-2024,Sunil,South,Rahul,Furniture,Office Chair,5,14491,0.1,72455,Net Banking,Pending
+1345,01-04-2024,Pooja Singh,East,Neha,Appliances,Mixer Grinder,3,17288,0.1,51864,Upi,Delivered
+1346,22-06-2024,Ravi Kumar,North,Amit,Electronics,Smart Watch,1,50762,0.0,50762,Card,Delivered
+1347,05-01-2024,Unknown,East,Suresh,Electronics,Router,5,15708,0.1,78540,Upi,Pending
+1348,15-01-2024,Ravi Kumar,East,Neha,Home Decor,Table Lamp,2,13218,0.0,26436,Card,Delivered
+1349,16-06-2024,Unknown,West,Rahul,Electronics,Router,3,34663,0.0,103989,Net Banking,Delivered
+1350,31-05-2024,Sunil,East,Anita,Electronics,Power Bank,4,29215,0.0,116860,Card,Pending
+1351,02-03-2024,Meena Patel,South,Anita,Electronics,Laptop,5,52956,0.1,264780,Card,Pending
+1352,22-01-2024,Akash Verma,South,Neha,Furniture,Office Chair,3,22319,0.1,66957,Upi,Delivered
+1353,27-01-2024,Unknown,West,Suresh,Electronics,Router,4,12053,0.1,48212,Card,Delivered
+1354,30-01-2024,Meena Patel,South,Neha,Furniture,Office Chair,5,37308,0.0,186540,Cash,Pending
+1355,26-02-2024,Unknown,North,Neha,Furniture,Office Chair,1,13149,0.1,13149,Upi,Delivered
+1356,22-02-2024,Sunil,East,Suresh,Furniture,Sofa Set,4,35796,0.1,143184,Upi,Pending
+1357,04-07-2024,Meena Patel,West,Rahul,Appliances,Mixer Grinder,6,18364,0.1,110184,Net Banking,Pending
+1358,21-05-2024,Unknown,East,Neha,Electronics,Mouse,3,10477,0.1,31431,Net Banking,Delivered
+1359,28-01-2024,Ravi Kumar,north,Anita,Electronics,Power Bank,6,25411,0.1,152466,Card,Pending
+1360,25-05-2024,Meena Patel,East,Anita,Electronics,Router,3,5222,0.0,15666,Cash,Delivered
+1361,26-01-2024,Sunil,North,Amit,Furniture,Office Chair,3,22046,0.0,66138,Card,Delivered
+1362,15-01-2024,Ravi Kumar,East,Rahul,Furniture,Sofa Set,4,24268,0.1,97072,Card,Pending
+1363,27-05-2024,Akash Verma,West,Rahul,Furniture,Sofa Set,1,25251,0.1,25251,Cash,Delivered
+1364,30-05-2024,Sunil,north,Rahul,Electronics,Mouse,3,32693,0.1,98079,Card,Delivered
+1365,26-06-2024,Akash Verma,East,Rahul,Electronics,Laptop,6,40045,0.1,240270,Card,Delivered
+1366,21-04-2024,Pooja Singh,North,Neha,Electronics,Mouse,6,54884,0.0,329304,Cash,Delivered
+1367,21-06-2024,Akash Verma,north,Anita,Electronics,Laptop,1,8384,0.1,8384,Cash,Pending
+1368,01-08-2024,Ravi Kumar,East,Rahul,Electronics,Mouse,2,53724,0.0,107448,Cash,Delivered
+1369,08-03-2024,John Smith,South,Neha,Electronics,Keyboard,4,32250,0.1,129000,Card,Pending
+1370,16-03-2024,Akash Verma,East,Neha,Electronics,Router,4,5891,0.1,23564,Upi,Pending
+1371,30-04-2024,Ravi Kumar,East,Suresh,Electronics,Keyboard,2,17071,0.0,34142,Card,Pending
+1372,17-06-2024,Akash Verma,north,Suresh,Electronics,Router,5,51350,0.1,256750,Card,Delivered
+1373,06-02-2024,Ravi Kumar,West,Amit,Electronics,Power Bank,2,54295,0.0,108590,Upi,Delivered
+1374,04-11-2024,Unknown,South,Amit,Furniture,Sofa Set,4,14560,0.1,58240,Cash,Pending
+1375,03-06-2024,Pooja Singh,West,Suresh,Furniture,Sofa Set,2,6827,0.1,13654,Card,Delivered
+1376,01-12-2024,Pooja Singh,West,Suresh,Electronics,Mouse,2,25176,0.0,50352,Card,Delivered
+1377,15-03-2024,Meena Patel,North,Amit,Electronics,Router,4,50021,0.0,200084,Cash,Delivered
+1378,10-06-2024,John Smith,East,Anita,Electronics,Power Bank,5,11202,0.1,56010,Card,Delivered
+1379,18-01-2024,Sunil,East,Anita,Electronics,Mouse,4,30654,0.1,122616,Upi,Pending
+1380,13-05-2024,Ravi Kumar,East,Neha,Electronics,Mouse,1,30911,0.0,30911,Upi,Pending
+1381,21-01-2024,Ravi Kumar,West,Amit,Furniture,Office Chair,3,50388,0.0,151164,Card,Pending
+1382,27-01-2024,Unknown,West,Amit,Appliances,Mixer Grinder,2,6542,0.1,13084,Upi,Pending
+1383,21-06-2024,Ravi Kumar,North,Anita,Electronics,Smart Watch,6,38869,0.1,233214,Card,Delivered
+1384,19-06-2024,Akash Verma,north,Anita,Electronics,Router,4,29197,0.0,116788,Upi,Pending
+1385,29-01-2024,Ravi Kumar,West,Rahul,Electronics,Router,1,17561,0.0,17561,Card,Delivered
+1386,22-04-2024,Pooja Singh,East,Anita,Furniture,Office Chair,1,39592,0.1,39592,Net Banking,Delivered
+1387,04-07-2024,Akash Verma,West,Rahul,Electronics,Keyboard,5,15705,0.1,78525,Cash,Delivered
+1388,14-04-2024,Ravi Kumar,West,Amit,Electronics,Mouse,6,35250,0.1,211500,Card,Pending
+1389,24-02-2024,Meena Patel,North,Rahul,Electronics,Mouse,3,27192,0.0,81576,Card,Delivered
+1390,16-01-2024,Pooja Singh,East,Rahul,Furniture,Sofa Set,4,17467,0.1,69868,Cash,Pending
+1391,28-05-2024,John Smith,East,Amit,Electronics,Headphones,6,2733,0.1,16398,Card,Delivered
+1392,05-10-2024,Unknown,East,Anita,Electronics,Power Bank,2,2472,0.0,4944,Upi,Pending
+1393,02-06-2024,Unknown,West,Rahul,Furniture,Sofa Set,5,16724,0.1,83620,Net Banking,Delivered
+1394,18-05-2024,John Smith,West,Anita,Furniture,Office Chair,4,40241,0.1,160964,Upi,Delivered
+1395,22-03-2024,Akash Verma,North,Amit,Electronics,Power Bank,1,48944,0.0,48944,Upi,Delivered
+1396,31-01-2024,Ravi Kumar,north,Rahul,Electronics,Router,3,48229,0.1,144687,Upi,Pending
+1397,15-03-2024,Akash Verma,South,Anita,Electronics,Headphones,2,40464,0.0,80928,Upi,Delivered
+1398,29-04-2024,Ravi Kumar,South,Anita,Electronics,Mobile Phone,5,53097,0.1,265485,Upi,Delivered
+1399,20-04-2024,Unknown,West,Suresh,Home Decor,Table Lamp,3,50050,0.0,150150,Upi,Delivered
+1400,18-04-2024,Sunil,North,Rahul,Furniture,Sofa Set,6,13927,0.1,83562,Card,Pending
+1401,25-06-2024,Akash Verma,South,Rahul,Electronics,Keyboard,5,5484,0.0,27420,Card,Delivered
+1402,01-03-2024,Pooja Singh,South,Amit,Electronics,Headphones,5,18389,0.0,91945,Card,Pending
+1403,16-01-2024,Unknown,north,Anita,Furniture,Sofa Set,5,17968,0.1,89840,Upi,Pending
+1404,02-06-2024,Unknown,South,Amit,Electronics,Smart Watch,1,40421,0.1,40421,Upi,Pending
+1405,26-02-2024,Sunil,north,Suresh,Home Decor,Table Lamp,1,38990,0.0,38990,Cash,Pending
+1406,19-02-2024,Sunil,West,Suresh,Home Decor,Table Lamp,3,25999,0.0,77997,Upi,Delivered
+1407,13-04-2024,Akash Verma,North,Suresh,Electronics,Smart Watch,3,43850,0.0,131550,Net Banking,Pending
+1408,18-05-2024,Akash Verma,East,Rahul,Electronics,Mobile Phone,6,20877,0.1,125262,Cash,Delivered
+1409,20-02-2024,Ravi Kumar,South,Rahul,Electronics,Router,5,36335,0.1,181675,Cash,Pending
+1410,04-05-2024,John Smith,East,Anita,Electronics,Keyboard,5,15593,0.1,77965,Cash,Delivered
+1411,02-12-2024,John Smith,North,Amit,Electronics,Mobile Phone,4,4211,0.0,16844,Card,Pending
+1412,29-06-2024,John Smith,South,Suresh,Electronics,Mobile Phone,1,9290,0.0,9290,Net Banking,Pending
+1413,27-02-2024,Unknown,South,Suresh,Furniture,Sofa Set,3,11543,0.1,34629,Upi,Delivered
+1414,21-05-2024,Ravi Kumar,East,Amit,Electronics,Headphones,2,2386,0.0,4772,Card,Delivered
+1415,02-10-2024,Unknown,North,Neha,Appliances,Mixer Grinder,5,54137,0.1,270685,Card,Delivered
+1416,02-11-2024,Akash Verma,North,Rahul,Home Decor,Table Lamp,2,16562,0.1,33124,Net Banking,Pending
+1417,02-06-2024,John Smith,East,Rahul,Electronics,Power Bank,5,19967,0.1,99835,Card,Pending
+1418,27-03-2024,Meena Patel,East,Rahul,Electronics,Router,2,14189,0.0,28378,Upi,Pending
+1419,19-03-2024,Unknown,East,Neha,Electronics,Laptop,4,50718,0.0,202872,Card,Pending
+1420,21-04-2024,Ravi Kumar,West,Rahul,Appliances,Mixer Grinder,1,46859,0.1,46859,Card,Delivered
+1421,25-06-2024,Unknown,East,Suresh,Electronics,Keyboard,6,31706,0.1,190236,Card,Delivered
+1422,15-04-2024,Unknown,South,Neha,Electronics,Laptop,4,14747,0.0,58988,Card,Delivered
+1423,15-03-2024,Unknown,North,Neha,Electronics,Keyboard,4,50089,0.0,200356,Net Banking,Delivered
+1424,17-01-2024,Meena Patel,East,Anita,Appliances,Mixer Grinder,3,43297,0.0,129891,Card,Pending
+1425,03-07-2024,Sunil,East,Neha,Electronics,Mobile Phone,5,13682,0.1,68410,Net Banking,Delivered
+1426,06-03-2024,Ravi Kumar,West,Amit,Electronics,Mobile Phone,6,3801,0.1,22806,Cash,Pending
+1427,20-03-2024,Sunil,East,Anita,Electronics,Router,2,32508,0.1,65016,Upi,Pending
+1428,11-03-2024,Ravi Kumar,South,Anita,Home Decor,Table Lamp,6,39161,0.1,234966,Upi,Delivered
+1429,03-09-2024,Pooja Singh,North,Neha,Electronics,Router,4,29457,0.1,117828,Cash,Pending
+1430,05-04-2024,Pooja Singh,north,Anita,Electronics,Laptop,3,25254,0.1,75762,Card,Pending
+1431,05-06-2024,Pooja Singh,North,Rahul,Electronics,Router,4,54059,0.1,216236,Cash,Delivered
+1432,03-05-2024,Ravi Kumar,North,Anita,Electronics,Mouse,1,42330,0.1,42330,Cash,Delivered
+1433,29-02-2024,Akash Verma,South,Rahul,Electronics,Power Bank,5,29525,0.1,147625,Card,Pending
+1434,26-04-2024,Sunil,East,Suresh,Furniture,Office Chair,4,26194,0.1,104776,Card,Delivered
+1435,21-04-2024,Pooja Singh,North,Rahul,Electronics,Laptop,1,10333,0.0,10333,Card,Pending
+1436,03-11-2024,Pooja Singh,South,Anita,Electronics,Mouse,5,27503,0.1,137515,Upi,Pending
+1437,25-06-2024,Unknown,South,Amit,Home Decor,Table Lamp,5,34847,0.1,174235,Upi,Pending
+1438,02-02-2024,John Smith,West,Neha,Appliances,Mixer Grinder,2,31750,0.0,63500,Upi,Delivered
+1439,25-06-2024,Meena Patel,West,Rahul,Electronics,Power Bank,6,19748,0.0,118488,Card,Delivered
+1440,13-06-2024,Pooja Singh,North,Amit,Electronics,Keyboard,1,18923,0.0,18923,Card,Delivered
+1441,29-04-2024,Pooja Singh,North,Anita,Electronics,Router,1,30185,0.1,30185,Cash,Delivered
+1442,24-02-2024,Sunil,South,Anita,Electronics,Keyboard,1,1053,0.1,1053,Upi,Delivered
+1443,31-05-2024,Ravi Kumar,north,Suresh,Electronics,Mouse,1,49437,0.1,49437,Net Banking,Pending
+1444,25-01-2024,Unknown,North,Rahul,Appliances,Mixer Grinder,4,44485,0.1,177940,Upi,Pending
+1445,04-10-2024,Akash Verma,West,Anita,Furniture,Office Chair,6,32467,0.1,194802,Upi,Delivered
+1446,23-01-2024,Pooja Singh,West,Anita,Appliances,Mixer Grinder,1,54719,0.1,54719,Upi,Delivered
+1447,25-05-2024,Akash Verma,West,Suresh,Electronics,Smart Watch,5,43856,0.1,219280,Upi,Pending
+1448,01-07-2024,Unknown,East,Rahul,Electronics,Mouse,4,17450,0.1,69800,Upi,Pending
+1449,11-03-2024,Sunil,North,Suresh,Electronics,Smart Watch,4,37117,0.0,148468,Upi,Pending
+1450,25-02-2024,John Smith,East,Anita,Appliances,Mixer Grinder,2,32371,0.1,64742,Card,Pending
+1451,22-06-2024,Sunil,East,Neha,Furniture,Sofa Set,4,8329,0.1,33316,Card,Delivered
+1452,05-06-2024,Meena Patel,north,Amit,Furniture,Sofa Set,5,13814,0.0,69070,Card,Delivered
+1453,02-05-2024,Meena Patel,North,Anita,Electronics,Headphones,6,17811,0.1,106866,Card,Pending
+1454,05-05-2024,Sunil,North,Rahul,Electronics,Smart Watch,5,9980,0.1,49900,Card,Pending
+1455,22-02-2024,Ravi Kumar,East,Anita,Electronics,Mouse,6,33178,0.1,199068,Upi,Delivered
+1456,31-05-2024,Akash Verma,East,Anita,Electronics,Keyboard,5,50644,0.1,253220,Upi,Delivered
+1457,10-04-2024,Meena Patel,East,Rahul,Electronics,Smart Watch,5,14716,0.0,73580,Upi,Pending
+1458,04-07-2024,Akash Verma,West,Anita,Appliances,Mixer Grinder,5,42315,0.0,211575,Cash,Delivered
+1459,29-06-2024,John Smith,East,Neha,Home Decor,Table Lamp,3,2532,0.1,7596,Card,Pending
+1460,05-11-2024,Pooja Singh,South,Rahul,Electronics,Router,6,50891,0.1,305346,Card,Delivered
+1461,15-01-2024,Sunil,East,Suresh,Electronics,Keyboard,5,52514,0.1,262570,Upi,Delivered
+1462,31-05-2024,Unknown,West,Rahul,Furniture,Sofa Set,1,45040,0.0,45040,Card,Delivered
+1463,28-01-2024,Pooja Singh,West,Rahul,Furniture,Office Chair,2,20122,0.1,40244,Card,Delivered
+1464,20-02-2024,Unknown,north,Anita,Electronics,Smart Watch,5,468,0.1,2340,Upi,Pending
+1465,14-03-2024,Pooja Singh,North,Anita,Electronics,Smart Watch,2,18504,0.1,37008,Net Banking,Pending
+1466,02-04-2024,Akash Verma,West,Rahul,Electronics,Keyboard,5,20063,0.0,100315,Upi,Pending
+1467,30-03-2024,Pooja Singh,north,Anita,Electronics,Keyboard,1,42008,0.1,42008,Upi,Pending
+1468,04-11-2024,John Smith,West,Anita,Electronics,Headphones,1,32051,0.0,32051,Net Banking,Pending
+1469,02-03-2024,Ravi Kumar,South,Anita,Electronics,Router,5,22097,0.1,110485,Upi,Delivered
+1470,02-08-2024,Akash Verma,East,Anita,Furniture,Office Chair,4,32952,0.0,131808,Card,Delivered
+1471,23-06-2024,Sunil,north,Anita,Electronics,Laptop,3,31246,0.0,93738,Upi,Delivered
+1472,21-03-2024,Unknown,South,Amit,Furniture,Sofa Set,6,41815,0.1,250890,Card,Pending
+1473,04-04-2024,Sunil,South,Suresh,Electronics,Laptop,3,22325,0.1,66975,Upi,Pending
+1474,02-11-2024,Ravi Kumar,north,Anita,Furniture,Sofa Set,2,18748,0.0,37496,Upi,Pending
+1475,28-01-2024,Pooja Singh,north,Neha,Furniture,Office Chair,4,29654,0.1,118616,Net Banking,Pending
+1476,16-04-2024,Pooja Singh,South,Suresh,Furniture,Sofa Set,2,27136,0.1,54272,Card,Delivered
+1477,18-05-2024,Meena Patel,South,Neha,Electronics,Smart Watch,5,32797,0.0,163985,Net Banking,Delivered
+1478,05-10-2024,Akash Verma,West,Amit,Furniture,Sofa Set,6,34093,0.1,204558,Upi,Pending
+1479,17-06-2024,Unknown,North,Rahul,Electronics,Mouse,4,38145,0.0,152580,Upi,Pending
+1480,30-01-2024,Unknown,north,Anita,Furniture,Sofa Set,2,27129,0.1,54258,Card,Delivered
+1481,26-04-2024,Pooja Singh,north,Amit,Electronics,Laptop,6,23506,0.1,141036,Net Banking,Pending
+1482,01-12-2024,Akash Verma,north,Suresh,Electronics,Mouse,3,9938,0.1,29814,Upi,Pending
+1483,23-01-2024,Unknown,North,Suresh,Furniture,Office Chair,6,19959,0.1,119754,Card,Delivered
+1484,17-03-2024,Sunil,East,Neha,Electronics,Mouse,2,26128,0.1,52256,Upi,Pending
+1485,15-01-2024,Unknown,North,Anita,Electronics,Keyboard,5,27412,0.0,137060,Card,Delivered
+1486,13-02-2024,Unknown,West,Suresh,Home Decor,Table Lamp,3,29192,0.0,87576,Net Banking,Pending
+1487,01-07-2024,Pooja Singh,South,Rahul,Furniture,Office Chair,4,34825,0.0,139300,Net Banking,Delivered
+1488,20-05-2024,Akash Verma,South,Amit,Electronics,Power Bank,1,6765,0.0,6765,Net Banking,Pending
+1489,22-01-2024,Meena Patel,West,Anita,Furniture,Sofa Set,2,13510,0.1,27020,Card,Delivered
+1490,30-03-2024,Ravi Kumar,West,Rahul,Appliances,Mixer Grinder,6,741,0.1,4446,Upi,Pending
+1491,04-09-2024,Meena Patel,North,Amit,Electronics,Keyboard,4,27205,0.0,108820,Net Banking,Pending
+1492,13-04-2024,Unknown,West,Anita,Appliances,Mixer Grinder,2,18242,0.1,36484,Upi,Pending
+1493,16-05-2024,Unknown,North,Rahul,Electronics,Router,1,15007,0.1,15007,Net Banking,Pending
+1494,01-04-2024,Sunil,North,Amit,Electronics,Power Bank,4,17182,0.1,68728,Upi,Delivered
+1495,16-02-2024,Akash Verma,West,Anita,Electronics,Keyboard,2,20622,0.1,41244,Cash,Delivered
+1496,16-05-2024,Akash Verma,South,Neha,Appliances,Mixer Grinder,2,24565,0.0,49130,Upi,Pending
+1497,18-05-2024,Akash Verma,South,Anita,Electronics,Power Bank,3,47538,0.1,142614,Card,Pending
+1498,06-06-2024,Akash Verma,South,Anita,Electronics,Mobile Phone,6,17366,0.1,104196,Upi,Pending
+1499,01-01-2024,Pooja Singh,South,Anita,Furniture,Office Chair,5,2964,0.1,14820,Card,Pending
+1500,31-01-2024,Ravi Kumar,West,Amit,Electronics,Power Bank,3,17427,0.0,52281,Card,Delivered
+1501,06-05-2024,Akash Verma,East,Neha,Electronics,Router,6,33950,0.1,203700,Card,Delivered
+1502,02-01-2024,John Smith,East,Rahul,Electronics,Power Bank,6,9854,0.0,59124,Upi,Pending
+1503,17-02-2024,Akash Verma,East,Anita,Electronics,Mobile Phone,3,2495,0.1,7485,Cash,Pending
+1504,05-02-2024,John Smith,South,Rahul,Electronics,Router,1,17436,0.0,17436,Card,Delivered
+1505,22-01-2024,Akash Verma,East,Suresh,Home Decor,Table Lamp,5,39938,0.1,199690,Upi,Delivered
+1506,26-06-2024,Unknown,South,Amit,Electronics,Router,2,38915,0.0,77830,Cash,Pending
+1507,06-08-2024,Sunil,South,Amit,Furniture,Office Chair,3,27562,0.1,82686,Upi,Delivered
+1508,17-06-2024,Akash Verma,East,Rahul,Electronics,Laptop,3,8495,0.1,25485,Cash,Delivered
+1509,17-04-2024,Ravi Kumar,north,Anita,Furniture,Office Chair,2,50330,0.1,100660,Cash,Delivered
+1510,21-03-2024,Pooja Singh,East,Rahul,Appliances,Mixer Grinder,6,33132,0.0,198792,Net Banking,Pending
+1511,15-02-2024,Akash Verma,South,Neha,Furniture,Office Chair,5,40195,0.0,200975,Net Banking,Delivered
+1512,06-06-2024,Sunil,West,Neha,Electronics,Headphones,2,21366,0.1,42732,Card,Pending
+1513,21-05-2024,Ravi Kumar,West,Rahul,Furniture,Sofa Set,3,52292,0.0,156876,Upi,Pending
+1514,15-03-2024,Sunil,East,Anita,Electronics,Mobile Phone,3,51921,0.0,155763,Upi,Pending
+1515,23-05-2024,Ravi Kumar,North,Anita,Electronics,Keyboard,4,54259,0.0,217036,Upi,Delivered
+1516,16-05-2024,Ravi Kumar,South,Rahul,Appliances,Mixer Grinder,1,39960,0.0,39960,Net Banking,Pending
+1517,05-02-2024,Unknown,South,Neha,Appliances,Mixer Grinder,4,9019,0.1,36076,Net Banking,Delivered
+1518,21-05-2024,Pooja Singh,South,Anita,Electronics,Headphones,6,54564,0.1,327384,Upi,Delivered
+1519,26-03-2024,Sunil,East,Anita,Electronics,Power Bank,6,28988,0.1,173928,Cash,Pending
+1520,02-06-2024,Pooja Singh,East,Suresh,Electronics,Mouse,4,29949,0.1,119796,Card,Pending
+1521,04-04-2024,John Smith,South,Anita,Furniture,Sofa Set,2,4019,0.1,8038,Net Banking,Delivered
+1522,28-03-2024,Pooja Singh,North,Rahul,Furniture,Sofa Set,1,13857,0.1,13857,Upi,Delivered
+1523,13-06-2024,Meena Patel,North,Suresh,Home Decor,Table Lamp,5,23394,0.1,116970,Cash,Pending
+1524,21-01-2024,Sunil,West,Suresh,Home Decor,Table Lamp,2,50479,0.0,100958,Net Banking,Pending
+1525,14-03-2024,John Smith,north,Anita,Furniture,Sofa Set,4,19939,0.0,79756,Upi,Pending
+1526,01-02-2024,John Smith,East,Amit,Furniture,Office Chair,5,53435,0.0,267175,Upi,Pending
+1527,03-05-2024,Unknown,north,Suresh,Appliances,Mixer Grinder,3,24361,0.1,73083,Net Banking,Pending
+1528,03-02-2024,Ravi Kumar,West,Rahul,Furniture,Office Chair,2,14845,0.1,29690,Card,Delivered
+1529,04-08-2024,Unknown,West,Neha,Home Decor,Table Lamp,1,10146,0.1,10146,Card,Pending
+1530,25-06-2024,Unknown,East,Suresh,Electronics,Keyboard,5,4392,0.0,21960,Upi,Pending
+1531,19-01-2024,John Smith,West,Rahul,Furniture,Sofa Set,3,27550,0.1,82650,Upi,Pending
+1532,16-01-2024,John Smith,north,Suresh,Electronics,Keyboard,5,54133,0.1,270665,Card,Delivered
+1533,06-10-2024,Meena Patel,South,Anita,Furniture,Office Chair,5,6711,0.1,33555,Card,Pending
+1534,27-04-2024,Meena Patel,West,Neha,Electronics,Mouse,1,26877,0.1,26877,Card,Pending
+1535,16-05-2024,Akash Verma,East,Amit,Electronics,Power Bank,2,19144,0.1,38288,Upi,Pending
+1536,14-02-2024,Sunil,South,Anita,Electronics,Smart Watch,1,35080,0.1,35080,Card,Delivered
+1537,20-02-2024,Sunil,East,Neha,Electronics,Mobile Phone,4,53230,0.0,212920,Upi,Delivered
+1538,01-04-2024,Akash Verma,East,Anita,Electronics,Laptop,1,49697,0.1,49697,Card,Delivered
+1539,23-02-2024,Pooja Singh,East,Neha,Electronics,Laptop,1,4024,0.1,4024,Card,Delivered
+1540,20-01-2024,John Smith,West,Suresh,Home Decor,Table Lamp,5,41422,0.1,207110,Upi,Delivered
+1541,24-03-2024,Unknown,East,Suresh,Electronics,Power Bank,6,15770,0.1,94620,Upi,Pending
+1542,13-05-2024,John Smith,North,Rahul,Electronics,Mobile Phone,2,50949,0.0,101898,Cash,Pending
+1543,15-06-2024,Unknown,South,Neha,Furniture,Sofa Set,5,33325,0.0,166625,Card,Delivered
+1544,26-05-2024,Unknown,West,Suresh,Appliances,Mixer Grinder,4,37223,0.0,148892,Card,Delivered
+1545,29-06-2024,Ravi Kumar,North,Anita,Electronics,Smart Watch,1,3592,0.1,3592,Net Banking,Delivered
+1546,16-06-2024,Unknown,South,Rahul,Electronics,Headphones,3,19303,0.1,57909,Card,Delivered
+1547,14-03-2024,Akash Verma,North,Anita,Appliances,Mixer Grinder,5,38158,0.1,190790,Net Banking,Pending
+1548,14-03-2024,Ravi Kumar,South,Anita,Appliances,Mixer Grinder,2,20313,0.0,40626,Upi,Delivered
+1549,22-01-2024,Pooja Singh,South,Rahul,Electronics,Router,6,1916,0.1,11496,Cash,Delivered
+1550,06-10-2024,Meena Patel,South,Neha,Furniture,Sofa Set,5,7239,0.1,36195,Net Banking,Delivered
+1551,03-03-2024,Pooja Singh,north,Rahul,Electronics,Mouse,3,792,0.0,2376,Card,Pending
+1552,05-04-2024,Akash Verma,South,Anita,Electronics,Smart Watch,4,28015,0.0,112060,Upi,Delivered
+1553,05-04-2024,Sunil,West,Anita,Electronics,Headphones,2,25267,0.1,50534,Card,Pending
+1554,31-03-2024,Akash Verma,East,Neha,Home Decor,Table Lamp,3,47426,0.0,142278,Upi,Pending
+1555,26-02-2024,John Smith,West,Anita,Electronics,Mouse,4,4021,0.0,16084,Upi,Delivered
+1556,05-01-2024,Ravi Kumar,West,Rahul,Electronics,Keyboard,3,5647,0.0,16941,Upi,Delivered
+1557,26-04-2024,Sunil,East,Rahul,Electronics,Router,2,40514,0.1,81028,Cash,Pending
+1558,31-05-2024,Pooja Singh,South,Suresh,Electronics,Laptop,3,23041,0.0,69123,Card,Pending
+1559,05-07-2024,Meena Patel,South,Suresh,Electronics,Headphones,1,16224,0.1,16224,Upi,Delivered
+1560,31-05-2024,Pooja Singh,South,Amit,Electronics,Keyboard,6,54530,0.1,327180,Net Banking,Delivered
+1561,02-03-2024,Akash Verma,West,Neha,Electronics,Laptop,3,53544,0.1,160632,Upi,Delivered
+1562,20-05-2024,Pooja Singh,West,Amit,Electronics,Laptop,5,27289,0.1,136445,Card,Pending
+1563,05-06-2024,Sunil,West,Neha,Electronics,Headphones,6,53263,0.0,319578,Upi,Delivered
+1564,29-05-2024,Akash Verma,South,Suresh,Electronics,Smart Watch,6,988,0.1,5928,Card,Delivered
+1565,17-01-2024,Sunil,East,Amit,Electronics,Power Bank,6,44855,0.1,269130,Cash,Pending
+1566,02-02-2024,Unknown,West,Rahul,Electronics,Mouse,5,18967,0.0,94835,Cash,Delivered
+1567,27-06-2024,Akash Verma,East,Rahul,Furniture,Office Chair,2,34591,0.1,69182,Card,Pending
+1568,26-02-2024,Sunil,South,Amit,Electronics,Mobile Phone,1,4515,0.0,4515,Upi,Delivered
+1569,13-01-2024,Pooja Singh,East,Suresh,Electronics,Laptop,1,26869,0.1,26869,Card,Pending
+1570,24-02-2024,Pooja Singh,West,Rahul,Electronics,Headphones,5,18480,0.1,92400,Card,Pending
+1571,14-05-2024,Sunil,West,Anita,Appliances,Mixer Grinder,3,33431,0.0,100293,Card,Pending
+1572,03-09-2024,Meena Patel,East,Amit,Electronics,Router,1,32107,0.1,32107,Upi,Delivered
+1573,19-05-2024,Unknown,East,Suresh,Electronics,Smart Watch,4,32101,0.0,128404,Card,Delivered
+1574,24-05-2024,John Smith,South,Amit,Furniture,Office Chair,5,4021,0.1,20105,Card,Pending
+1575,06-02-2024,Sunil,West,Rahul,Electronics,Router,6,559,0.0,3354,Card,Delivered
+1576,29-02-2024,Akash Verma,West,Rahul,Appliances,Mixer Grinder,4,8795,0.1,35180,Card,Pending
+1577,30-05-2024,John Smith,West,Suresh,Electronics,Headphones,3,44940,0.1,134820,Upi,Delivered
+1578,05-08-2024,Sunil,north,Anita,Electronics,Keyboard,5,45596,0.1,227980,Upi,Pending
+1579,15-03-2024,John Smith,East,Anita,Electronics,Power Bank,6,9226,0.1,55356,Upi,Pending
+1580,20-06-2024,John Smith,East,Anita,Furniture,Office Chair,3,53905,0.1,161715,Cash,Delivered
+1581,19-06-2024,John Smith,West,Rahul,Appliances,Mixer Grinder,6,26785,0.1,160710,Net Banking,Delivered
+1582,04-04-2024,Akash Verma,South,Neha,Electronics,Power Bank,2,19015,0.1,38030,Net Banking,Pending
+1583,23-01-2024,Akash Verma,North,Neha,Electronics,Smart Watch,4,24604,0.1,98416,Cash,Delivered
+1584,13-02-2024,John Smith,East,Rahul,Appliances,Mixer Grinder,3,11373,0.1,34119,Card,Delivered
+1585,05-01-2024,Pooja Singh,West,Neha,Electronics,Laptop,1,27771,0.1,27771,Card,Delivered
+1586,09-02-2024,Ravi Kumar,East,Amit,Electronics,Smart Watch,1,21674,0.0,21674,Card,Pending
+1587,28-03-2024,Sunil,West,Neha,Electronics,Mouse,4,51519,0.0,206076,Card,Pending
+1588,01-07-2024,Pooja Singh,South,Anita,Electronics,Mouse,5,34304,0.0,171520,Upi,Delivered
+1589,05-02-2024,Pooja Singh,North,Suresh,Electronics,Laptop,1,9364,0.0,9364,Card,Delivered
+1590,03-04-2024,Ravi Kumar,South,Amit,Furniture,Office Chair,2,28954,0.0,57908,Upi,Pending
+1591,02-09-2024,Pooja Singh,East,Anita,Furniture,Office Chair,2,525,0.1,1050,Net Banking,Pending
+1592,22-05-2024,John Smith,West,Amit,Electronics,Keyboard,4,19462,0.0,77848,Card,Delivered
+1593,19-02-2024,Unknown,West,Suresh,Electronics,Headphones,2,24844,0.1,49688,Upi,Delivered
+1594,05-06-2024,Unknown,South,Amit,Appliances,Mixer Grinder,1,21678,0.1,21678,Net Banking,Delivered
+1595,01-08-2024,Ravi Kumar,north,Rahul,Electronics,Router,4,44873,0.1,179492,Upi,Delivered
+1596,03-11-2024,Akash Verma,South,Suresh,Electronics,Laptop,5,27581,0.1,137905,Upi,Pending
+1597,01-10-2024,Pooja Singh,North,Rahul,Electronics,Smart Watch,1,50472,0.1,50472,Cash,Pending
+1598,14-03-2024,Pooja Singh,West,Neha,Electronics,Mobile Phone,2,43531,0.1,87062,Upi,Pending
+1599,02-12-2024,Sunil,West,Rahul,Electronics,Power Bank,2,45330,0.1,90660,Card,Pending
+1600,01-01-2024,Ravi Kumar,South,Suresh,Electronics,Smart Watch,6,34639,0.0,207834,Card,Delivered
+1601,20-05-2024,John Smith,West,Rahul,Electronics,Smart Watch,3,1064,0.1,3192,Upi,Delivered
+1602,30-04-2024,Meena Patel,East,Rahul,Electronics,Smart Watch,5,2842,0.0,14210,Card,Pending
+1603,20-01-2024,Unknown,north,Anita,Electronics,Smart Watch,4,19009,0.0,76036,Card,Delivered
+1604,13-04-2024,Ravi Kumar,South,Amit,Electronics,Router,1,38691,0.0,38691,Card,Pending
+1605,14-05-2024,John Smith,South,Suresh,Home Decor,Table Lamp,4,45547,0.1,182188,Cash,Pending
+1606,30-01-2024,Unknown,West,Neha,Electronics,Headphones,1,43719,0.1,43719,Card,Pending
+1607,25-05-2024,Sunil,West,Neha,Electronics,Mouse,1,54609,0.1,54609,Cash,Pending
+1608,22-03-2024,Sunil,West,Rahul,Electronics,Headphones,3,40463,0.1,121389,Card,Pending
+1609,03-11-2024,Pooja Singh,West,Anita,Electronics,Mobile Phone,5,46740,0.0,233700,Card,Pending
+1610,28-06-2024,John Smith,West,Amit,Electronics,Laptop,6,46508,0.1,279048,Upi,Delivered
+1611,16-04-2024,Unknown,West,Amit,Home Decor,Table Lamp,1,1253,0.0,1253,Upi,Delivered
+1612,03-09-2024,Akash Verma,North,Rahul,Electronics,Laptop,6,4879,0.1,29274,Net Banking,Delivered
+1613,20-06-2024,John Smith,East,Rahul,Electronics,Smart Watch,5,21838,0.1,109190,Card,Pending
+1614,06-07-2024,John Smith,North,Anita,Electronics,Keyboard,1,3884,0.1,3884,Upi,Delivered
+1615,16-01-2024,John Smith,East,Amit,Furniture,Office Chair,2,18383,0.1,36766,Upi,Delivered
+1616,06-05-2024,John Smith,West,Amit,Appliances,Mixer Grinder,2,8370,0.1,16740,Net Banking,Pending
+1617,05-12-2024,Ravi Kumar,South,Rahul,Electronics,Headphones,6,53538,0.1,321228,Card,Delivered
+1618,06-03-2024,Sunil,South,Suresh,Electronics,Smart Watch,2,26604,0.1,53208,Card,Pending
+1619,03-11-2024,Sunil,West,Rahul,Furniture,Sofa Set,6,47253,0.0,283518,Card,Delivered
+1620,26-03-2024,John Smith,South,Anita,Electronics,Keyboard,3,29685,0.1,89055,Card,Pending
+1621,18-01-2024,Unknown,north,Amit,Electronics,Power Bank,4,8478,0.1,33912,Card,Delivered
+1622,29-05-2024,Unknown,South,Rahul,Electronics,Power Bank,5,48725,0.0,243625,Card,Pending
+1623,27-01-2024,Sunil,north,Rahul,Electronics,Power Bank,4,11844,0.0,47376,Card,Pending
+1624,22-01-2024,Sunil,South,Anita,Electronics,Laptop,6,18713,0.0,112278,Cash,Pending
+1625,06-02-2024,Pooja Singh,north,Rahul,Electronics,Headphones,6,46410,0.1,278460,Net Banking,Delivered
+1626,19-06-2024,Unknown,East,Anita,Furniture,Sofa Set,3,53334,0.1,160002,Upi,Delivered
+1627,18-01-2024,Meena Patel,North,Anita,Furniture,Sofa Set,6,39615,0.0,237690,Net Banking,Delivered
+1628,21-01-2024,Akash Verma,East,Anita,Appliances,Mixer Grinder,6,37731,0.1,226386,Upi,Pending
+1629,01-01-2024,Pooja Singh,North,Suresh,Appliances,Mixer Grinder,5,18812,0.0,94060,Card,Delivered
+1630,01-05-2024,Unknown,West,Rahul,Furniture,Sofa Set,3,3721,0.1,11163,Upi,Pending
+1631,19-05-2024,Meena Patel,North,Anita,Electronics,Router,4,39647,0.1,158588,Upi,Pending
+1632,17-01-2024,Unknown,North,Rahul,Electronics,Smart Watch,6,50695,0.1,304170,Card,Pending
+1633,04-01-2024,John Smith,West,Anita,Electronics,Smart Watch,1,36684,0.0,36684,Cash,Pending
+1634,23-03-2024,Meena Patel,West,Amit,Electronics,Router,1,24698,0.0,24698,Upi,Delivered
+1635,20-02-2024,Pooja Singh,South,Rahul,Electronics,Power Bank,2,21255,0.1,42510,Net Banking,Delivered
+1636,07-05-2024,Ravi Kumar,East,Anita,Electronics,Keyboard,6,18921,0.1,113526,Card,Delivered
+1637,18-02-2024,Pooja Singh,East,Rahul,Appliances,Mixer Grinder,4,24466,0.0,97864,Card,Pending
+1638,06-03-2024,Sunil,West,Neha,Electronics,Power Bank,2,33327,0.1,66654,Upi,Delivered
+1639,01-07-2024,Sunil,north,Neha,Electronics,Laptop,3,19902,0.0,59706,Upi,Pending
+1640,05-09-2024,Ravi Kumar,South,Neha,Electronics,Keyboard,2,1317,0.1,2634,Upi,Pending
+1641,19-01-2024,Pooja Singh,East,Amit,Home Decor,Table Lamp,1,54989,0.0,54989,Card,Delivered
+1642,27-02-2024,Akash Verma,north,Neha,Electronics,Power Bank,5,29662,0.1,148310,Upi,Pending
+1643,04-11-2024,Akash Verma,South,Rahul,Electronics,Router,2,41426,0.1,82852,Net Banking,Pending
+1644,04-06-2024,Unknown,South,Anita,Electronics,Smart Watch,2,31750,0.1,63500,Card,Delivered
+1645,18-02-2024,Pooja Singh,North,Neha,Furniture,Office Chair,1,9074,0.0,9074,Cash,Pending
+1646,29-01-2024,John Smith,north,Anita,Electronics,Mobile Phone,2,47735,0.0,95470,Upi,Delivered
+1647,17-04-2024,Pooja Singh,East,Rahul,Electronics,Mouse,5,31375,0.0,156875,Cash,Delivered
+1648,21-05-2024,Unknown,West,Neha,Electronics,Laptop,4,15630,0.1,62520,Card,Pending
+1649,03-01-2024,Meena Patel,East,Suresh,Electronics,Headphones,4,21185,0.1,84740,Cash,Delivered
+1650,04-03-2024,Sunil,West,Rahul,Electronics,Smart Watch,2,44653,0.0,89306,Card,Delivered
+1651,30-04-2024,Akash Verma,North,Neha,Electronics,Mobile Phone,6,6299,0.0,37794,Card,Pending
+1652,28-03-2024,Akash Verma,South,Anita,Electronics,Smart Watch,5,41522,0.1,207610,Cash,Delivered
+1653,15-06-2024,John Smith,West,Amit,Electronics,Router,1,36060,0.0,36060,Card,Delivered
+1654,24-04-2024,Ravi Kumar,East,Rahul,Electronics,Laptop,3,10111,0.1,30333,Card,Delivered
+1655,27-04-2024,John Smith,North,Rahul,Electronics,Keyboard,1,9362,0.1,9362,Cash,Delivered
+1656,28-03-2024,Sunil,East,Amit,Electronics,Mobile Phone,4,21788,0.1,87152,Card,Pending
+1657,01-03-2024,Unknown,north,Anita,Electronics,Smart Watch,4,51309,0.1,205236,Card,Pending
+1658,06-01-2024,Ravi Kumar,South,Amit,Electronics,Router,5,27356,0.1,136780,Card,Pending
+1659,01-09-2024,Unknown,South,Rahul,Home Decor,Table Lamp,3,21295,0.1,63885,Cash,Pending
+1660,29-01-2024,Akash Verma,north,Neha,Electronics,Power Bank,2,52502,0.1,105004,Upi,Delivered
+1661,01-09-2024,Ravi Kumar,South,Anita,Home Decor,Table Lamp,3,6858,0.1,20574,Upi,Delivered
+1662,05-01-2024,John Smith,West,Neha,Appliances,Mixer Grinder,5,10945,0.1,54725,Net Banking,Delivered
+1663,22-06-2024,Meena Patel,South,Neha,Furniture,Sofa Set,6,51408,0.0,308448,Card,Delivered
+1664,20-05-2024,Ravi Kumar,North,Amit,Furniture,Sofa Set,5,2016,0.0,10080,Net Banking,Pending
+1665,23-01-2024,Meena Patel,West,Neha,Home Decor,Table Lamp,5,4160,0.0,20800,Net Banking,Pending
+1666,05-09-2024,Ravi Kumar,West,Suresh,Electronics,Router,2,27040,0.1,54080,Net Banking,Pending
+1667,13-05-2024,Ravi Kumar,West,Rahul,Electronics,Laptop,5,48462,0.1,242310,Cash,Delivered
+1668,05-07-2024,Unknown,East,Rahul,Electronics,Power Bank,6,31933,0.1,191598,Net Banking,Pending
+1669,03-07-2024,Akash Verma,East,Neha,Furniture,Sofa Set,1,16356,0.0,16356,Card,Delivered
+1670,23-02-2024,Ravi Kumar,South,Rahul,Furniture,Office Chair,4,16219,0.1,64876,Upi,Pending
+1671,06-01-2024,Ravi Kumar,North,Rahul,Appliances,Mixer Grinder,4,5902,0.0,23608,Card,Delivered
+1672,13-06-2024,Pooja Singh,north,Rahul,Electronics,Smart Watch,6,25248,0.1,151488,Upi,Pending
+1673,23-02-2024,Unknown,north,Suresh,Home Decor,Table Lamp,2,41217,0.1,82434,Cash,Pending
+1674,30-03-2024,Sunil,South,Suresh,Electronics,Power Bank,1,33243,0.1,33243,Cash,Delivered
+1675,13-03-2024,Ravi Kumar,West,Anita,Electronics,Mobile Phone,3,40440,0.1,121320,Net Banking,Delivered
+1676,23-01-2024,Sunil,North,Suresh,Electronics,Mobile Phone,6,15959,0.1,95754,Upi,Delivered
+1677,11-04-2024,Pooja Singh,South,Amit,Electronics,Headphones,2,11458,0.1,22916,Cash,Delivered
+1678,27-06-2024,Akash Verma,West,Neha,Home Decor,Table Lamp,4,51801,0.0,207204,Card,Delivered
+1679,20-03-2024,Sunil,West,Amit,Electronics,Router,6,51963,0.0,311778,Upi,Delivered
+1680,01-04-2024,John Smith,north,Anita,Electronics,Router,1,34128,0.1,34128,Upi,Pending
+1681,05-04-2024,Pooja Singh,north,Rahul,Appliances,Mixer Grinder,3,17112,0.1,51336,Upi,Pending
+1682,13-05-2024,Ravi Kumar,West,Neha,Electronics,Mobile Phone,5,24824,0.0,124120,Cash,Pending
+1683,29-05-2024,Sunil,East,Anita,Electronics,Keyboard,4,41988,0.1,167952,Card,Pending
+1684,17-02-2024,Meena Patel,West,Rahul,Furniture,Office Chair,5,44607,0.1,223035,Upi,Delivered
+1685,01-09-2024,Pooja Singh,East,Anita,Home Decor,Table Lamp,6,48464,0.0,290784,Card,Pending
+1686,29-02-2024,Akash Verma,South,Suresh,Electronics,Laptop,5,1472,0.1,7360,Card,Pending
+1687,06-09-2024,Unknown,north,Neha,Electronics,Headphones,1,34703,0.0,34703,Upi,Delivered
+1688,03-01-2024,Ravi Kumar,West,Anita,Electronics,Router,5,15182,0.1,75910,Cash,Pending
+1689,23-01-2024,Sunil,East,Suresh,Furniture,Office Chair,6,40730,0.0,244380,Card,Pending
+1690,26-03-2024,Meena Patel,West,Amit,Furniture,Sofa Set,3,24400,0.1,73200,Card,Pending
+1691,13-04-2024,Akash Verma,East,Suresh,Furniture,Office Chair,5,25555,0.0,127775,Upi,Pending
+1692,16-01-2024,Unknown,East,Anita,Electronics,Smart Watch,5,35066,0.0,175330,Net Banking,Pending
+1693,06-04-2024,Sunil,North,Anita,Home Decor,Table Lamp,1,32369,0.1,32369,Upi,Pending
+1694,25-02-2024,Unknown,West,Anita,Appliances,Mixer Grinder,3,20793,0.1,62379,Net Banking,Pending
+1695,25-03-2024,Akash Verma,South,Neha,Electronics,Headphones,4,28625,0.0,114500,Net Banking,Pending
+1696,13-03-2024,Pooja Singh,north,Neha,Appliances,Mixer Grinder,4,8827,0.1,35308,Card,Delivered
+1697,27-01-2024,John Smith,North,Rahul,Furniture,Office Chair,4,19695,0.1,78780,Upi,Delivered
+1698,25-04-2024,Ravi Kumar,East,Neha,Electronics,Mouse,3,6434,0.1,19302,Upi,Pending
+1699,20-06-2024,Akash Verma,West,Rahul,Appliances,Mixer Grinder,5,38417,0.0,192085,Upi,Delivered
+1700,03-10-2024,Akash Verma,South,Amit,Home Decor,Table Lamp,6,48933,0.1,293598,Card,Pending
+1701,03-12-2024,Sunil,West,Rahul,Electronics,Mobile Phone,3,32329,0.1,96987,Card,Delivered
+1702,02-03-2024,Sunil,South,Suresh,Electronics,Headphones,3,21577,0.0,64731,Card,Pending
+1703,17-03-2024,Pooja Singh,West,Amit,Electronics,Laptop,3,48915,0.0,146745,Card,Delivered
+1704,17-05-2024,Meena Patel,North,Amit,Electronics,Mouse,2,881,0.1,1762,Cash,Pending
+1705,25-06-2024,Sunil,north,Suresh,Home Decor,Table Lamp,5,25013,0.0,125065,Net Banking,Delivered
+1706,28-05-2024,Meena Patel,East,Neha,Electronics,Mouse,3,30019,0.0,90057,Net Banking,Delivered
+1707,22-06-2024,Meena Patel,West,Amit,Electronics,Keyboard,1,30329,0.0,30329,Card,Pending
+1708,03-04-2024,Pooja Singh,South,Suresh,Furniture,Sofa Set,5,15619,0.1,78095,Upi,Pending
+1709,05-05-2024,Ravi Kumar,North,Rahul,Electronics,Mouse,2,40123,0.1,80246,Upi,Delivered
+1710,13-04-2024,Ravi Kumar,East,Neha,Appliances,Mixer Grinder,3,10665,0.0,31995,Upi,Delivered
+1711,15-03-2024,Meena Patel,North,Rahul,Electronics,Keyboard,5,4016,0.0,20080,Cash,Delivered
+1712,02-10-2024,Meena Patel,north,Anita,Electronics,Keyboard,2,24757,0.1,49514,Upi,Delivered
+1713,03-02-2024,Pooja Singh,north,Anita,Electronics,Smart Watch,5,4788,0.1,23940,Card,Delivered
+1714,13-01-2024,John Smith,East,Amit,Electronics,Headphones,3,9850,0.0,29550,Net Banking,Delivered
+1715,18-03-2024,Ravi Kumar,East,Rahul,Furniture,Office Chair,4,17776,0.0,71104,Upi,Pending
+1716,05-09-2024,Pooja Singh,North,Neha,Electronics,Headphones,3,15264,0.0,45792,Net Banking,Pending
+1717,29-02-2024,Akash Verma,East,Anita,Home Decor,Table Lamp,4,36587,0.1,146348,Cash,Delivered
+1718,22-04-2024,John Smith,West,Suresh,Furniture,Sofa Set,3,32259,0.1,96777,Upi,Delivered
+1719,06-04-2024,Unknown,West,Anita,Furniture,Office Chair,1,9604,0.1,9604,Net Banking,Delivered
+1720,23-04-2024,Unknown,South,Anita,Electronics,Keyboard,1,17774,0.1,17774,Cash,Pending
+1721,21-02-2024,Meena Patel,West,Rahul,Home Decor,Table Lamp,3,29926,0.0,89778,Upi,Pending
+1722,20-01-2024,Akash Verma,West,Anita,Electronics,Power Bank,3,14589,0.1,43767,Upi,Delivered
+1723,25-04-2024,Sunil,West,Amit,Home Decor,Table Lamp,2,23415,0.0,46830,Card,Delivered
+1724,13-06-2024,Akash Verma,South,Rahul,Electronics,Smart Watch,4,2678,0.0,10712,Net Banking,Delivered
+1725,05-06-2024,Meena Patel,South,Rahul,Electronics,Headphones,5,26855,0.1,134275,Net Banking,Delivered
+1726,14-01-2024,Akash Verma,South,Rahul,Furniture,Sofa Set,3,28776,0.1,86328,Card,Delivered
+1727,03-07-2024,Ravi Kumar,West,Amit,Home Decor,Table Lamp,6,44099,0.1,264594,Upi,Delivered
+1728,14-05-2024,Pooja Singh,North,Neha,Furniture,Office Chair,2,10173,0.1,20346,Card,Delivered
+1729,04-06-2024,Sunil,West,Anita,Electronics,Router,1,17094,0.0,17094,Card,Pending
+1730,02-02-2024,Unknown,West,Amit,Appliances,Mixer Grinder,1,28465,0.1,28465,Card,Delivered
+1731,06-02-2024,John Smith,South,Anita,Electronics,Mouse,2,23938,0.0,47876,Card,Delivered
+1732,15-06-2024,Pooja Singh,East,Amit,Electronics,Mobile Phone,2,54928,0.1,109856,Card,Pending
+1733,05-02-2024,Ravi Kumar,North,Rahul,Furniture,Sofa Set,1,43639,0.0,43639,Net Banking,Pending
+1734,30-04-2024,John Smith,East,Anita,Electronics,Mobile Phone,2,20044,0.1,40088,Net Banking,Delivered
+1735,24-04-2024,Sunil,South,Amit,Electronics,Headphones,4,17815,0.0,71260,Cash,Pending
+1736,04-05-2024,Ravi Kumar,West,Suresh,Electronics,Headphones,2,8154,0.0,16308,Card,Pending
+1737,13-03-2024,Pooja Singh,South,Anita,Electronics,Mobile Phone,5,41608,0.0,208040,Card,Pending
+1738,01-02-2024,Unknown,North,Anita,Furniture,Office Chair,3,1444,0.1,4332,Upi,Delivered
+1739,23-03-2024,Unknown,East,Anita,Electronics,Keyboard,5,2555,0.0,12775,Cash,Pending
+1740,18-03-2024,Sunil,South,Suresh,Furniture,Sofa Set,6,35031,0.0,210186,Card,Delivered
+1741,21-04-2024,Sunil,north,Anita,Home Decor,Table Lamp,4,5974,0.0,23896,Net Banking,Pending
+1742,03-09-2024,Ravi Kumar,South,Neha,Electronics,Mouse,2,20514,0.1,41028,Net Banking,Delivered
+1743,17-04-2024,Pooja Singh,West,Rahul,Appliances,Mixer Grinder,4,45504,0.1,182016,Upi,Delivered
+1744,18-04-2024,Sunil,West,Rahul,Electronics,Laptop,2,52552,0.1,105104,Net Banking,Delivered
+1745,02-11-2024,Unknown,South,Rahul,Electronics,Power Bank,5,12816,0.0,64080,Card,Delivered
+1746,27-03-2024,John Smith,North,Rahul,Appliances,Mixer Grinder,3,22155,0.0,66465,Net Banking,Delivered
+1747,19-02-2024,Ravi Kumar,South,Amit,Appliances,Mixer Grinder,5,53734,0.1,268670,Upi,Pending
+1748,24-02-2024,Ravi Kumar,South,Rahul,Electronics,Headphones,1,53446,0.0,53446,Card,Delivered
+1749,03-03-2024,Meena Patel,North,Rahul,Electronics,Keyboard,6,45916,0.0,275496,Card,Delivered
+1750,22-03-2024,John Smith,East,Rahul,Electronics,Mobile Phone,2,45935,0.1,91870,Card,Delivered
+1751,04-05-2024,Meena Patel,West,Rahul,Electronics,Mouse,1,36468,0.0,36468,Net Banking,Pending
+1752,03-05-2024,Sunil,East,Anita,Electronics,Mouse,1,15578,0.0,15578,Card,Pending
+1753,24-01-2024,Unknown,East,Rahul,Electronics,Router,6,11471,0.0,68826,Card,Pending
+1754,02-07-2024,Pooja Singh,East,Anita,Electronics,Mobile Phone,1,6740,0.1,6740,Net Banking,Pending
+1755,05-10-2024,Unknown,South,Neha,Electronics,Laptop,5,19526,0.1,97630,Cash,Delivered
+1756,05-01-2024,Pooja Singh,East,Neha,Furniture,Sofa Set,4,28995,0.1,115980,Upi,Delivered
+1757,29-04-2024,Ravi Kumar,West,Rahul,Electronics,Mouse,5,10270,0.1,51350,Card,Pending
+1758,16-06-2024,Ravi Kumar,East,Suresh,Electronics,Headphones,3,47345,0.0,142035,Card,Pending
+1759,25-04-2024,John Smith,South,Suresh,Electronics,Router,4,45492,0.1,181968,Net Banking,Pending
+1760,21-05-2024,Unknown,North,Rahul,Electronics,Laptop,4,22918,0.1,91672,Upi,Delivered
+1761,06-07-2024,Unknown,North,Neha,Electronics,Router,1,4211,0.0,4211,Upi,Pending
+1762,26-05-2024,Akash Verma,West,Anita,Furniture,Office Chair,1,38205,0.1,38205,Net Banking,Pending
+1763,03-04-2024,Akash Verma,West,Anita,Electronics,Headphones,6,51089,0.1,306534,Card,Pending
+1764,20-04-2024,Meena Patel,East,Suresh,Furniture,Sofa Set,2,8451,0.0,16902,Net Banking,Delivered
+1765,03-08-2024,Pooja Singh,West,Amit,Electronics,Router,2,26509,0.1,53018,Net Banking,Delivered
+1766,18-06-2024,Unknown,West,Amit,Electronics,Laptop,1,10836,0.0,10836,Card,Pending
+1767,03-11-2024,Akash Verma,East,Suresh,Furniture,Sofa Set,1,2406,0.0,2406,Upi,Delivered
+1768,16-01-2024,John Smith,north,Amit,Electronics,Router,4,28877,0.1,115508,Upi,Delivered
+1769,21-02-2024,Meena Patel,South,Rahul,Electronics,Router,3,28801,0.1,86403,Card,Pending
+1770,22-05-2024,John Smith,East,Amit,Electronics,Mobile Phone,1,11446,0.1,11446,Card,Delivered
+1771,22-01-2024,Unknown,South,Anita,Home Decor,Table Lamp,1,4389,0.1,4389,Upi,Delivered
+1772,12-03-2024,Ravi Kumar,East,Neha,Furniture,Office Chair,5,44095,0.0,220475,Upi,Delivered
+1773,18-06-2024,Ravi Kumar,West,Rahul,Electronics,Headphones,6,32034,0.0,192204,Net Banking,Pending
+1774,24-02-2024,Pooja Singh,North,Suresh,Electronics,Mouse,2,31791,0.1,63582,Upi,Delivered
+1775,24-02-2024,Meena Patel,North,Suresh,Electronics,Router,4,24351,0.1,97404,Net Banking,Pending
+1776,28-05-2024,Meena Patel,East,Neha,Electronics,Keyboard,1,25274,0.1,25274,Net Banking,Pending
+1777,05-10-2024,Unknown,North,Anita,Electronics,Power Bank,2,53073,0.0,106146,Net Banking,Pending
+1778,09-03-2024,Pooja Singh,West,Neha,Appliances,Mixer Grinder,5,929,0.0,4645,Card,Delivered
+1779,03-10-2024,Pooja Singh,East,Rahul,Home Decor,Table Lamp,2,25025,0.0,50050,Upi,Pending
+1780,01-02-2024,Unknown,north,Anita,Electronics,Headphones,6,37694,0.0,226164,Cash,Delivered
+1781,28-01-2024,Akash Verma,North,Suresh,Electronics,Headphones,1,46256,0.0,46256,Upi,Pending
+1782,04-05-2024,Ravi Kumar,East,Rahul,Electronics,Laptop,4,37722,0.0,150888,Net Banking,Delivered
+1783,16-04-2024,Pooja Singh,East,Anita,Electronics,Mouse,5,16329,0.0,81645,Cash,Delivered
+1784,04-10-2024,John Smith,South,Anita,Home Decor,Table Lamp,2,43664,0.0,87328,Cash,Pending
+1785,17-02-2024,Meena Patel,West,Rahul,Electronics,Smart Watch,4,12687,0.1,50748,Upi,Pending
+1786,02-03-2024,Pooja Singh,East,Rahul,Furniture,Sofa Set,6,43383,0.1,260298,Card,Pending
+1787,28-03-2024,Meena Patel,West,Suresh,Electronics,Laptop,6,43992,0.1,263952,Net Banking,Pending
+1788,25-06-2024,Akash Verma,West,Suresh,Electronics,Router,5,38921,0.1,194605,Upi,Pending
+1789,05-06-2024,John Smith,South,Rahul,Electronics,Keyboard,4,36954,0.1,147816,Card,Delivered
+1790,16-02-2024,Unknown,East,Rahul,Furniture,Sofa Set,2,54220,0.0,108440,Upi,Delivered
+1791,16-04-2024,Unknown,West,Anita,Electronics,Mobile Phone,2,13397,0.1,26794,Upi,Delivered
+1792,06-07-2024,Unknown,East,Amit,Electronics,Router,2,21320,0.1,42640,Card,Delivered
+1793,05-02-2024,Meena Patel,South,Rahul,Electronics,Laptop,4,52879,0.1,211516,Upi,Pending
+1794,29-05-2024,Ravi Kumar,West,Amit,Electronics,Headphones,6,24371,0.1,146226,Net Banking,Pending
+1795,17-05-2024,Meena Patel,north,Anita,Electronics,Router,2,27670,0.1,55340,Card,Pending
+1796,02-03-2024,Unknown,East,Rahul,Home Decor,Table Lamp,3,51734,0.0,155202,Upi,Delivered
+1797,05-06-2024,Meena Patel,north,Anita,Electronics,Mouse,3,6155,0.0,18465,Card,Delivered
+1798,05-02-2024,Meena Patel,north,Suresh,Electronics,Mobile Phone,6,21603,0.0,129618,Upi,Pending
+1799,18-04-2024,Sunil,West,Anita,Furniture,Office Chair,1,2782,0.1,2782,Net Banking,Pending
+1800,24-05-2024,Pooja Singh,North,Amit,Electronics,Power Bank,1,47128,0.1,47128,Card,Delivered
+1801,21-05-2024,John Smith,north,Suresh,Furniture,Office Chair,5,6237,0.1,31185,Card,Delivered
+1802,18-02-2024,Akash Verma,West,Neha,Furniture,Sofa Set,5,5827,0.1,29135,Cash,Pending
+1803,14-03-2024,Sunil,South,Rahul,Electronics,Laptop,2,4812,0.1,9624,Net Banking,Delivered
+1804,06-12-2024,Unknown,north,Rahul,Electronics,Mobile Phone,1,28530,0.1,28530,Net Banking,Pending
+1805,05-12-2024,Pooja Singh,North,Anita,Electronics,Mobile Phone,3,4204,0.1,12612,Net Banking,Delivered
+1806,06-04-2024,Ravi Kumar,north,Anita,Electronics,Power Bank,1,52218,0.1,52218,Upi,Delivered
+1807,19-06-2024,John Smith,South,Anita,Home Decor,Table Lamp,2,10416,0.1,20832,Upi,Pending
+1808,19-02-2024,Pooja Singh,East,Amit,Electronics,Router,1,4598,0.0,4598,Cash,Pending
+1809,03-03-2024,Akash Verma,East,Anita,Electronics,Power Bank,1,25605,0.1,25605,Cash,Delivered
+1810,29-05-2024,Pooja Singh,East,Neha,Electronics,Smart Watch,6,53560,0.0,321360,Net Banking,Delivered
+1811,22-04-2024,Unknown,East,Neha,Electronics,Router,1,14652,0.0,14652,Upi,Pending
+1812,01-02-2024,Pooja Singh,East,Amit,Electronics,Mobile Phone,3,9448,0.1,28344,Card,Pending
+1813,21-02-2024,Sunil,South,Rahul,Electronics,Mouse,1,2230,0.1,2230,Net Banking,Pending
+1814,25-03-2024,John Smith,West,Amit,Electronics,Smart Watch,6,37098,0.1,222588,Card,Pending
+1815,15-03-2024,John Smith,East,Neha,Furniture,Sofa Set,3,36215,0.1,108645,Upi,Delivered
+1816,14-03-2024,Ravi Kumar,North,Anita,Electronics,Smart Watch,4,11555,0.1,46220,Net Banking,Delivered
+1817,25-01-2024,Sunil,South,Rahul,Furniture,Sofa Set,6,4429,0.0,26574,Card,Delivered
+1818,21-06-2024,Meena Patel,South,Anita,Furniture,Sofa Set,3,15733,0.0,47199,Card,Pending
+1819,27-03-2024,Akash Verma,East,Neha,Appliances,Mixer Grinder,3,21720,0.0,65160,Card,Pending
+1820,18-04-2024,Pooja Singh,East,Suresh,Electronics,Mouse,2,33165,0.0,66330,Upi,Pending
+1821,16-03-2024,Unknown,West,Amit,Home Decor,Table Lamp,6,20946,0.1,125676,Card,Delivered
+1822,16-04-2024,John Smith,East,Anita,Appliances,Mixer Grinder,3,53945,0.1,161835,Upi,Delivered
+1823,19-02-2024,Meena Patel,West,Anita,Electronics,Keyboard,5,20457,0.0,102285,Cash,Delivered
+1824,29-03-2024,Akash Verma,South,Rahul,Electronics,Router,5,36871,0.1,184355,Upi,Pending
+1825,17-04-2024,Unknown,South,Suresh,Electronics,Mobile Phone,5,46209,0.0,231045,Cash,Delivered
+1826,18-03-2024,Meena Patel,West,Suresh,Electronics,Power Bank,1,30094,0.0,30094,Net Banking,Delivered
+1827,06-02-2024,Sunil,East,Neha,Furniture,Sofa Set,2,31748,0.1,63496,Upi,Delivered
+1828,28-05-2024,Akash Verma,East,Rahul,Electronics,Power Bank,2,30005,0.0,60010,Net Banking,Delivered
+1829,06-01-2024,Unknown,north,Neha,Electronics,Power Bank,5,11320,0.1,56600,Card,Delivered
+1830,13-01-2024,Unknown,West,Rahul,Furniture,Sofa Set,5,1952,0.0,9760,Cash,Pending
+1831,01-10-2024,Meena Patel,South,Anita,Electronics,Power Bank,6,32116,0.1,192696,Upi,Pending
+1832,16-02-2024,Pooja Singh,North,Amit,Electronics,Mouse,3,6621,0.1,19863,Upi,Pending
+1833,01-02-2024,Akash Verma,North,Anita,Furniture,Sofa Set,1,29118,0.0,29118,Upi,Pending
+1834,26-06-2024,Akash Verma,East,Anita,Furniture,Sofa Set,3,8341,0.1,25023,Card,Delivered
+1835,02-06-2024,Pooja Singh,East,Anita,Electronics,Keyboard,2,52029,0.1,104058,Card,Pending
+1836,29-03-2024,Meena Patel,South,Rahul,Appliances,Mixer Grinder,3,17801,0.1,53403,Card,Delivered
+1837,06-11-2024,Akash Verma,South,Suresh,Furniture,Sofa Set,1,10417,0.1,10417,Upi,Pending
+1838,20-01-2024,Unknown,West,Rahul,Furniture,Office Chair,3,33315,0.0,99945,Cash,Pending
+1839,20-05-2024,Sunil,north,Rahul,Furniture,Sofa Set,5,8143,0.0,40715,Upi,Delivered
+1840,13-04-2024,Sunil,West,Neha,Electronics,Smart Watch,5,23975,0.1,119875,Upi,Delivered
+1841,02-12-2024,Meena Patel,South,Amit,Appliances,Mixer Grinder,4,44167,0.0,176668,Upi,Delivered
+1842,22-02-2024,Ravi Kumar,north,Rahul,Home Decor,Table Lamp,6,18226,0.0,109356,Cash,Pending
+1843,04-08-2024,Meena Patel,West,Amit,Appliances,Mixer Grinder,5,37253,0.0,186265,Cash,Delivered
+1844,16-02-2024,Unknown,North,Rahul,Electronics,Keyboard,5,39235,0.1,196175,Upi,Pending
+1845,03-03-2024,Sunil,South,Rahul,Electronics,Headphones,6,10252,0.0,61512,Upi,Pending
+1846,03-05-2024,Sunil,West,Anita,Electronics,Router,1,15208,0.0,15208,Net Banking,Delivered
+1847,23-03-2024,Sunil,South,Suresh,Electronics,Keyboard,3,11393,0.1,34179,Card,Pending
+1848,29-04-2024,Ravi Kumar,South,Amit,Electronics,Headphones,6,17096,0.1,102576,Card,Pending
+1849,17-05-2024,John Smith,South,Anita,Electronics,Keyboard,6,21079,0.1,126474,Cash,Delivered
+1850,09-06-2024,Unknown,East,Suresh,Electronics,Mobile Phone,2,19333,0.1,38666,Cash,Delivered
+1851,05-02-2024,Sunil,East,Amit,Electronics,Laptop,5,42483,0.1,212415,Net Banking,Pending
+1852,17-02-2024,John Smith,South,Amit,Furniture,Office Chair,6,39237,0.1,235422,Net Banking,Delivered
+1853,03-08-2024,Pooja Singh,North,Rahul,Furniture,Office Chair,5,6507,0.1,32535,Card,Delivered
+1854,02-06-2024,Akash Verma,North,Anita,Electronics,Mouse,1,50052,0.0,50052,Card,Delivered
+1855,01-02-2024,Unknown,South,Rahul,Electronics,Router,1,7302,0.1,7302,Card,Pending
+1856,01-12-2024,Akash Verma,South,Anita,Electronics,Headphones,3,33874,0.1,101622,Card,Pending
+1857,01-03-2024,Sunil,South,Suresh,Electronics,Mobile Phone,4,32619,0.0,130476,Upi,Delivered
+1858,22-02-2024,Akash Verma,East,Neha,Furniture,Office Chair,6,25279,0.0,151674,Upi,Pending
+1859,20-01-2024,Sunil,East,Rahul,Furniture,Office Chair,5,14231,0.0,71155,Net Banking,Delivered
+1860,16-03-2024,Ravi Kumar,East,Suresh,Electronics,Power Bank,4,18021,0.1,72084,Net Banking,Delivered
+1861,17-01-2024,John Smith,north,Amit,Electronics,Mobile Phone,4,25926,0.0,103704,Cash,Delivered
+1862,27-02-2024,Pooja Singh,South,Anita,Electronics,Headphones,3,3168,0.0,9504,Cash,Delivered
+1863,09-01-2024,Akash Verma,South,Anita,Electronics,Smart Watch,6,33310,0.1,199860,Cash,Delivered
+1864,04-11-2024,Akash Verma,north,Rahul,Home Decor,Table Lamp,3,33511,0.0,100533,Card,Delivered
+1865,28-04-2024,Unknown,East,Neha,Electronics,Router,4,42097,0.1,168388,Upi,Pending
+1866,25-04-2024,Akash Verma,West,Rahul,Electronics,Power Bank,3,27981,0.1,83943,Cash,Delivered
+1867,22-02-2024,Pooja Singh,West,Anita,Electronics,Router,1,35016,0.1,35016,Card,Pending
+1868,18-03-2024,John Smith,East,Amit,Electronics,Laptop,3,4342,0.1,13026,Net Banking,Pending
+1869,25-01-2024,Akash Verma,West,Anita,Electronics,Smart Watch,6,46341,0.1,278046,Card,Pending
+1870,05-12-2024,Sunil,East,Suresh,Furniture,Office Chair,2,35135,0.1,70270,Card,Delivered
+1871,05-02-2024,Meena Patel,South,Anita,Furniture,Sofa Set,1,30328,0.1,30328,Card,Delivered
+1872,01-10-2024,Sunil,north,Rahul,Electronics,Router,6,9262,0.1,55572,Upi,Delivered
+1873,04-03-2024,John Smith,South,Suresh,Electronics,Headphones,4,43020,0.1,172080,Cash,Delivered
+1874,20-03-2024,Sunil,North,Anita,Electronics,Power Bank,5,48009,0.0,240045,Upi,Pending
+1875,07-04-2024,Unknown,north,Anita,Electronics,Headphones,3,24233,0.0,72699,Upi,Delivered
+1876,29-04-2024,John Smith,South,Rahul,Electronics,Power Bank,5,49341,0.1,246705,Card,Delivered
+1877,01-07-2024,Sunil,South,Anita,Electronics,Router,1,10179,0.1,10179,Cash,Delivered
+1878,14-01-2024,Pooja Singh,West,Rahul,Home Decor,Table Lamp,4,1180,0.1,4720,Card,Pending
+1879,17-02-2024,Sunil,South,Rahul,Electronics,Keyboard,1,46550,0.1,46550,Upi,Delivered
+1880,19-06-2024,Sunil,North,Neha,Electronics,Mouse,4,44765,0.0,179060,Upi,Pending
+1881,31-03-2024,John Smith,North,Anita,Electronics,Router,6,37720,0.0,226320,Card,Pending
+1882,13-02-2024,John Smith,South,Anita,Electronics,Keyboard,5,47068,0.1,235340,Cash,Delivered
+1883,15-05-2024,Ravi Kumar,north,Rahul,Electronics,Headphones,1,8853,0.1,8853,Net Banking,Delivered
+1884,01-01-2024,John Smith,north,Suresh,Electronics,Router,6,1879,0.1,11274,Upi,Delivered
+1885,19-06-2024,Sunil,West,Amit,Appliances,Mixer Grinder,3,10931,0.1,32793,Card,Pending
+1886,23-05-2024,Akash Verma,West,Rahul,Furniture,Sofa Set,3,50630,0.0,151890,Card,Delivered
+1887,02-04-2024,John Smith,north,Neha,Electronics,Laptop,5,24122,0.0,120610,Upi,Delivered
+1888,02-04-2024,John Smith,North,Rahul,Appliances,Mixer Grinder,6,43989,0.0,263934,Upi,Delivered
+1889,31-05-2024,Sunil,north,Neha,Electronics,Headphones,4,14366,0.1,57464,Cash,Delivered
+1890,03-12-2024,John Smith,West,Suresh,Electronics,Laptop,3,8385,0.1,25155,Upi,Pending
+1891,29-03-2024,John Smith,North,Rahul,Electronics,Router,6,44341,0.0,266046,Card,Pending
+1892,01-07-2024,Sunil,East,Rahul,Furniture,Office Chair,3,9712,0.1,29136,Upi,Pending
+1893,29-03-2024,John Smith,North,Rahul,Furniture,Sofa Set,4,48528,0.0,194112,Upi,Delivered
+1894,28-05-2024,Ravi Kumar,East,Suresh,Furniture,Sofa Set,2,49496,0.1,98992,Upi,Delivered
+1895,03-12-2024,Ravi Kumar,West,Rahul,Electronics,Laptop,4,20894,0.0,83576,Upi,Pending
+1896,26-01-2024,Sunil,north,Anita,Electronics,Mobile Phone,3,8137,0.1,24411,Upi,Delivered
+1897,18-06-2024,Sunil,West,Amit,Furniture,Sofa Set,4,34257,0.0,137028,Net Banking,Delivered
+1898,27-01-2024,Ravi Kumar,West,Rahul,Home Decor,Table Lamp,5,32035,0.0,160175,Card,Delivered
+1899,28-01-2024,Meena Patel,East,Rahul,Electronics,Router,2,48090,0.1,96180,Upi,Pending
+1900,05-11-2024,Pooja Singh,South,Rahul,Home Decor,Table Lamp,1,9261,0.1,9261,Card,Pending
+1901,13-01-2024,John Smith,north,Neha,Furniture,Sofa Set,4,12757,0.0,51028,Net Banking,Delivered
+1902,17-01-2024,Pooja Singh,North,Anita,Electronics,Router,1,13381,0.0,13381,Cash,Pending
+1903,31-01-2024,Ravi Kumar,South,Suresh,Electronics,Mouse,2,28854,0.0,57708,Card,Pending
+1904,26-02-2024,John Smith,North,Rahul,Electronics,Keyboard,1,51151,0.1,51151,Card,Pending
+1905,19-02-2024,Ravi Kumar,East,Amit,Furniture,Office Chair,6,39541,0.0,237246,Card,Delivered
+1906,29-01-2024,Pooja Singh,East,Anita,Electronics,Mouse,6,34816,0.1,208896,Cash,Pending
+1907,29-02-2024,Ravi Kumar,South,Neha,Electronics,Headphones,4,9670,0.1,38680,Card,Pending
+1908,04-10-2024,Meena Patel,West,Neha,Furniture,Office Chair,4,12985,0.1,51940,Upi,Pending
+1909,01-11-2024,Unknown,East,Amit,Electronics,Laptop,2,29481,0.0,58962,Upi,Pending
+1910,07-06-2024,Sunil,West,Anita,Electronics,Keyboard,6,7333,0.1,43998,Upi,Pending
+1911,22-02-2024,Unknown,South,Anita,Appliances,Mixer Grinder,4,10868,0.0,43472,Upi,Delivered
+1912,13-04-2024,Akash Verma,South,Neha,Furniture,Office Chair,2,9166,0.1,18332,Upi,Pending
+1913,23-05-2024,Unknown,South,Neha,Electronics,Laptop,1,48635,0.1,48635,Cash,Delivered
+1914,03-06-2024,Akash Verma,East,Suresh,Electronics,Router,6,15656,0.1,93936,Net Banking,Delivered
+1915,01-05-2024,Ravi Kumar,East,Anita,Home Decor,Table Lamp,1,13787,0.0,13787,Upi,Delivered
+1916,06-04-2024,Sunil,East,Rahul,Electronics,Keyboard,1,16423,0.1,16423,Upi,Pending
+1917,04-09-2024,Sunil,South,Neha,Electronics,Laptop,6,53727,0.0,322362,Net Banking,Delivered
+1918,20-05-2024,Meena Patel,East,Anita,Electronics,Headphones,1,1944,0.0,1944,Card,Pending
+1919,16-06-2024,Meena Patel,East,Anita,Furniture,Sofa Set,3,45620,0.1,136860,Card,Delivered
+1920,18-03-2024,John Smith,north,Rahul,Furniture,Office Chair,5,27149,0.0,135745,Card,Delivered
+1921,06-09-2024,Meena Patel,East,Amit,Furniture,Office Chair,4,28814,0.1,115256,Card,Delivered
+1922,03-09-2024,John Smith,East,Rahul,Appliances,Mixer Grinder,6,49905,0.0,299430,Cash,Delivered
+1923,14-06-2024,Ravi Kumar,East,Suresh,Electronics,Keyboard,3,46157,0.1,138471,Upi,Pending
+1924,02-06-2024,Pooja Singh,East,Anita,Electronics,Laptop,1,1197,0.0,1197,Card,Pending
+1925,30-05-2024,Akash Verma,South,Neha,Appliances,Mixer Grinder,3,4084,0.0,12252,Card,Pending
+1926,18-04-2024,Akash Verma,East,Anita,Electronics,Mouse,4,21184,0.1,84736,Net Banking,Delivered
+1927,15-04-2024,Unknown,North,Rahul,Electronics,Smart Watch,3,31713,0.0,95139,Card,Delivered
+1928,05-03-2024,Pooja Singh,north,Suresh,Electronics,Laptop,2,11513,0.1,23026,Upi,Pending
+1929,18-03-2024,Sunil,North,Anita,Appliances,Mixer Grinder,2,51485,0.0,102970,Cash,Pending
+1930,05-12-2024,Akash Verma,South,Anita,Electronics,Mouse,6,44384,0.1,266304,Card,Pending
+1931,04-11-2024,Meena Patel,north,Suresh,Electronics,Smart Watch,6,15022,0.1,90132,Cash,Pending
+1932,20-02-2024,John Smith,East,Suresh,Electronics,Router,4,43529,0.1,174116,Cash,Pending
+1933,01-11-2024,Meena Patel,South,Amit,Electronics,Mouse,3,11568,0.0,34704,Card,Pending
+1934,03-05-2024,Pooja Singh,South,Amit,Electronics,Router,6,28723,0.0,172338,Card,Delivered
+1935,05-08-2024,Sunil,North,Amit,Home Decor,Table Lamp,4,39684,0.1,158736,Card,Delivered
+1936,19-03-2024,Akash Verma,north,Rahul,Electronics,Headphones,1,20641,0.1,20641,Net Banking,Pending
+1937,02-07-2024,Pooja Singh,north,Neha,Electronics,Mobile Phone,3,17225,0.0,51675,Cash,Pending
+1938,27-01-2024,Akash Verma,North,Anita,Furniture,Office Chair,6,48431,0.1,290586,Upi,Pending
+1939,25-05-2024,Unknown,East,Amit,Electronics,Power Bank,1,42261,0.1,42261,Cash,Pending
+1940,29-03-2024,Akash Verma,East,Amit,Electronics,Laptop,1,1354,0.1,1354,Upi,Delivered
+1941,26-01-2024,Akash Verma,East,Rahul,Electronics,Headphones,1,6130,0.0,6130,Upi,Pending
+1942,13-06-2024,Ravi Kumar,North,Anita,Electronics,Mobile Phone,2,13113,0.0,26226,Card,Pending
+1943,20-06-2024,Ravi Kumar,West,Suresh,Electronics,Router,6,29700,0.1,178200,Cash,Delivered
+1944,20-06-2024,Unknown,East,Anita,Electronics,Mouse,6,4002,0.1,24012,Card,Pending
+1945,02-10-2024,Pooja Singh,north,Neha,Appliances,Mixer Grinder,4,15594,0.1,62376,Upi,Delivered
+1946,13-01-2024,Ravi Kumar,north,Anita,Electronics,Laptop,6,30935,0.0,185610,Cash,Delivered
+1947,16-04-2024,Pooja Singh,East,Neha,Appliances,Mixer Grinder,5,3355,0.0,16775,Upi,Delivered
+1948,20-06-2024,John Smith,East,Amit,Electronics,Smart Watch,2,35394,0.1,70788,Net Banking,Pending
+1949,02-01-2024,Akash Verma,north,Rahul,Electronics,Laptop,1,10488,0.0,10488,Card,Pending
+1950,17-03-2024,Akash Verma,East,Suresh,Electronics,Headphones,6,32667,0.1,196002,Cash,Delivered
+1951,16-02-2024,Meena Patel,South,Suresh,Electronics,Keyboard,2,16468,0.0,32936,Card,Pending
+1952,01-11-2024,John Smith,North,Anita,Electronics,Laptop,3,5082,0.1,15246,Upi,Pending
+1953,25-04-2024,Akash Verma,South,Suresh,Electronics,Router,4,47265,0.1,189060,Card,Delivered
+1954,17-05-2024,Sunil,East,Rahul,Electronics,Laptop,5,52908,0.1,264540,Net Banking,Delivered
+1955,24-06-2024,Unknown,West,Rahul,Electronics,Keyboard,4,43126,0.0,172504,Upi,Delivered
+1956,31-03-2024,Meena Patel,East,Anita,Electronics,Headphones,1,52737,0.1,52737,Upi,Pending
+1957,01-12-2024,Unknown,north,Amit,Electronics,Headphones,2,18299,0.1,36598,Upi,Pending
+1958,05-11-2024,John Smith,West,Neha,Electronics,Mobile Phone,5,6871,0.1,34355,Upi,Delivered
+1959,04-03-2024,Meena Patel,North,Rahul,Furniture,Sofa Set,5,45655,0.1,228275,Upi,Pending
+1960,24-01-2024,Meena Patel,East,Anita,Electronics,Headphones,6,20055,0.1,120330,Upi,Pending
+1961,04-01-2024,Pooja Singh,East,Rahul,Electronics,Laptop,6,38293,0.1,229758,Net Banking,Pending
+1962,06-05-2024,Meena Patel,West,Amit,Electronics,Power Bank,5,36410,0.0,182050,Net Banking,Delivered
+1963,31-05-2024,Sunil,North,Rahul,Furniture,Sofa Set,4,2693,0.0,10772,Upi,Delivered
+1964,28-06-2024,John Smith,East,Anita,Electronics,Keyboard,1,2930,0.0,2930,Card,Delivered
+1965,21-06-2024,Akash Verma,West,Rahul,Electronics,Smart Watch,6,54373,0.1,326238,Net Banking,Pending
+1966,25-02-2024,Unknown,West,Rahul,Electronics,Laptop,2,27481,0.0,54962,Card,Pending
+1967,14-02-2024,Ravi Kumar,north,Neha,Electronics,Headphones,5,38995,0.1,194975,Upi,Pending
+1968,25-06-2024,Akash Verma,West,Rahul,Electronics,Mobile Phone,6,23865,0.1,143190,Upi,Pending
+1969,14-05-2024,John Smith,West,Anita,Electronics,Mobile Phone,1,37676,0.1,37676,Card,Delivered
+1970,24-02-2024,Sunil,East,Anita,Electronics,Mouse,6,33173,0.1,199038,Upi,Pending
+1971,18-04-2024,Meena Patel,north,Anita,Home Decor,Table Lamp,4,12770,0.1,51080,Upi,Delivered
+1972,02-10-2024,Akash Verma,north,Amit,Furniture,Office Chair,1,34840,0.0,34840,Upi,Delivered
+1973,29-03-2024,Meena Patel,South,Anita,Electronics,Mouse,2,48493,0.0,96986,Cash,Pending
+1974,05-08-2024,Meena Patel,East,Suresh,Furniture,Sofa Set,6,5036,0.1,30216,Net Banking,Pending
+1975,04-04-2024,Meena Patel,South,Neha,Home Decor,Table Lamp,1,18988,0.0,18988,Cash,Delivered
+1976,19-01-2024,Pooja Singh,East,Rahul,Electronics,Mouse,2,51919,0.1,103838,Upi,Delivered
+1977,15-06-2024,Ravi Kumar,north,Amit,Electronics,Headphones,2,4658,0.1,9316,Net Banking,Pending
+1978,04-09-2024,Pooja Singh,South,Amit,Electronics,Router,1,51207,0.1,51207,Cash,Pending
+1979,05-08-2024,Ravi Kumar,South,Amit,Appliances,Mixer Grinder,6,25062,0.0,150372,Upi,Pending
+1980,19-01-2024,Pooja Singh,South,Anita,Appliances,Mixer Grinder,4,1788,0.0,7152,Cash,Pending
+1981,03-02-2024,Meena Patel,West,Rahul,Appliances,Mixer Grinder,1,44227,0.1,44227,Upi,Delivered
+1982,01-01-2024,Unknown,West,Anita,Home Decor,Table Lamp,3,52665,0.0,157995,Upi,Pending
+1983,03-07-2024,John Smith,North,Anita,Electronics,Mouse,6,48119,0.1,288714,Net Banking,Pending
+1984,30-05-2024,John Smith,South,Amit,Electronics,Power Bank,1,11408,0.1,11408,Card,Pending
+1985,04-02-2024,Ravi Kumar,West,Amit,Appliances,Mixer Grinder,2,23815,0.1,47630,Net Banking,Pending
+1986,03-07-2024,Pooja Singh,East,Neha,Electronics,Keyboard,1,42093,0.1,42093,Upi,Delivered
+1987,29-02-2024,Unknown,East,Anita,Appliances,Mixer Grinder,4,37672,0.0,150688,Upi,Pending
+1988,03-01-2024,Akash Verma,North,Anita,Electronics,Power Bank,3,19677,0.1,59031,Cash,Pending
+1989,20-03-2024,Ravi Kumar,north,Neha,Electronics,Power Bank,5,8341,0.0,41705,Card,Delivered
+1990,20-02-2024,Pooja Singh,north,Suresh,Electronics,Keyboard,2,31953,0.0,63906,Card,Delivered
+1991,23-06-2024,Unknown,South,Neha,Appliances,Mixer Grinder,2,19947,0.1,39894,Net Banking,Delivered
+1992,17-01-2024,Akash Verma,North,Rahul,Furniture,Sofa Set,2,1056,0.0,2112,Cash,Delivered
+1993,06-02-2024,John Smith,North,Rahul,Appliances,Mixer Grinder,3,49217,0.1,147651,Upi,Pending
+1994,18-05-2024,Pooja Singh,South,Neha,Furniture,Office Chair,6,47616,0.0,285696,Card,Delivered
+1995,24-05-2024,Meena Patel,South,Rahul,Electronics,Headphones,4,13202,0.0,52808,Net Banking,Delivered
+1996,29-06-2024,John Smith,North,Rahul,Furniture,Sofa Set,6,3822,0.1,22932,Cash,Pending
+1997,19-03-2024,Akash Verma,South,Rahul,Electronics,Smart Watch,2,50673,0.0,101346,Cash,Pending
+1998,01-08-2024,Pooja Singh,South,Neha,Electronics,Smart Watch,1,32442,0.0,32442,Upi,Delivered
+1999,18-06-2024,Unknown,South,Anita,Home Decor,Table Lamp,2,33256,0.1,66512,Upi,Pending
+2000,18-02-2024,Meena Patel,West,Anita,Electronics,Mobile Phone,2,18198,0.0,36396,Net Banking,Pending
+2001,20-01-2024,Ravi Kumar,West,Amit,Furniture,Office Chair,3,51403,0.0,154209,Card,Pending
+2002,24-02-2024,Akash Verma,East,Rahul,Electronics,Laptop,2,3586,0.1,7172,Cash,Pending
+2003,26-05-2024,Unknown,South,Rahul,Electronics,Smart Watch,2,24773,0.0,49546,Net Banking,Pending
+2004,26-06-2024,Akash Verma,West,Anita,Electronics,Mobile Phone,3,15800,0.1,47400,Card,Pending
+2005,24-01-2024,Pooja Singh,West,Rahul,Electronics,Power Bank,2,7021,0.1,14042,Net Banking,Pending
+2006,30-05-2024,Ravi Kumar,East,Suresh,Electronics,Keyboard,6,1894,0.0,11364,Upi,Pending
+2007,06-09-2024,Meena Patel,North,Rahul,Electronics,Router,5,18650,0.0,93250,Net Banking,Pending
+2008,21-03-2024,Sunil,East,Suresh,Furniture,Sofa Set,2,13572,0.1,27144,Upi,Delivered
+2009,06-10-2024,Unknown,north,Amit,Furniture,Sofa Set,3,50858,0.1,152574,Net Banking,Delivered
+2010,06-10-2024,Pooja Singh,East,Suresh,Electronics,Smart Watch,4,6218,0.1,24872,Card,Delivered
+2011,28-05-2024,Meena Patel,East,Anita,Electronics,Router,6,28220,0.1,169320,Upi,Pending
+2012,26-05-2024,Pooja Singh,West,Anita,Electronics,Keyboard,5,30493,0.1,152465,Net Banking,Delivered
+2013,29-02-2024,Sunil,north,Suresh,Furniture,Sofa Set,3,48035,0.1,144105,Upi,Pending
+2014,18-02-2024,Sunil,West,Anita,Electronics,Mobile Phone,4,6279,0.1,25116,Upi,Pending
+2015,17-04-2024,Unknown,East,Rahul,Appliances,Mixer Grinder,4,11404,0.1,45616,Upi,Pending
+2016,16-06-2024,John Smith,West,Suresh,Electronics,Router,4,37723,0.1,150892,Upi,Delivered
+2017,16-01-2024,Akash Verma,West,Neha,Electronics,Smart Watch,3,36585,0.1,109755,Upi,Delivered
+2018,02-12-2024,Akash Verma,East,Anita,Electronics,Mouse,1,12349,0.1,12349,Card,Pending
+2019,25-03-2024,John Smith,South,Anita,Electronics,Headphones,6,19146,0.1,114876,Cash,Delivered
+2020,21-06-2024,Sunil,West,Rahul,Furniture,Sofa Set,1,44106,0.1,44106,Upi,Pending
+2021,06-10-2024,Ravi Kumar,South,Anita,Electronics,Keyboard,3,23684,0.1,71052,Cash,Pending
+2022,02-06-2024,John Smith,South,Neha,Electronics,Keyboard,1,50904,0.1,50904,Card,Pending
+2023,01-11-2024,John Smith,north,Neha,Electronics,Power Bank,6,45618,0.1,273708,Card,Delivered
+2024,21-06-2024,Meena Patel,West,Amit,Furniture,Sofa Set,5,10037,0.1,50185,Upi,Pending
+2025,23-05-2024,Sunil,East,Rahul,Electronics,Mouse,1,7430,0.1,7430,Upi,Pending
+2026,06-10-2024,Sunil,north,Neha,Electronics,Headphones,6,28424,0.1,170544,Card,Delivered
+2027,25-03-2024,Akash Verma,West,Anita,Electronics,Keyboard,1,32676,0.1,32676,Cash,Delivered
+2028,20-04-2024,Sunil,South,Rahul,Home Decor,Table Lamp,3,34939,0.0,104817,Upi,Delivered
+2029,20-05-2024,Meena Patel,North,Amit,Appliances,Mixer Grinder,3,6467,0.1,19401,Card,Delivered
+2030,23-01-2024,Akash Verma,north,Anita,Electronics,Power Bank,5,12777,0.1,63885,Upi,Delivered
+2031,14-05-2024,Sunil,East,Anita,Electronics,Headphones,4,16973,0.0,67892,Upi,Pending
+2032,24-04-2024,Unknown,north,Rahul,Electronics,Laptop,1,31211,0.1,31211,Upi,Delivered
+2033,14-02-2024,Pooja Singh,West,Rahul,Electronics,Mobile Phone,4,27208,0.1,108832,Net Banking,Pending
+2034,16-06-2024,Ravi Kumar,South,Rahul,Electronics,Router,2,8296,0.1,16592,Cash,Delivered
+2035,28-02-2024,Pooja Singh,South,Suresh,Electronics,Headphones,3,30908,0.1,92724,Card,Delivered
+2036,30-01-2024,Unknown,West,Anita,Home Decor,Table Lamp,6,44637,0.0,267822,Upi,Pending
+2037,06-11-2024,Meena Patel,East,Rahul,Electronics,Keyboard,5,12234,0.1,61170,Upi,Pending
+2038,01-08-2024,Unknown,South,Amit,Electronics,Headphones,5,24184,0.1,120920,Card,Delivered
+2039,30-03-2024,Unknown,West,Anita,Appliances,Mixer Grinder,1,48861,0.1,48861,Upi,Delivered
+2040,23-01-2024,John Smith,East,Amit,Electronics,Laptop,2,22029,0.0,44058,Card,Delivered
+2041,02-06-2024,Akash Verma,West,Suresh,Furniture,Sofa Set,5,2326,0.0,11630,Cash,Delivered
+2042,14-04-2024,Unknown,North,Rahul,Electronics,Mobile Phone,2,15162,0.1,30324,Net Banking,Pending
+2043,31-01-2024,Pooja Singh,South,Anita,Electronics,Keyboard,2,39420,0.1,78840,Upi,Pending
+2044,25-05-2024,Sunil,East,Rahul,Furniture,Sofa Set,6,29288,0.0,175728,Card,Pending
+2045,19-01-2024,Ravi Kumar,West,Anita,Furniture,Sofa Set,5,15327,0.1,76635,Card,Pending
+2046,15-04-2024,Unknown,South,Suresh,Electronics,Keyboard,2,1791,0.0,3582,Upi,Delivered
+2047,15-02-2024,John Smith,West,Suresh,Electronics,Power Bank,2,42760,0.1,85520,Card,Delivered
+2048,17-01-2024,Unknown,North,Rahul,Appliances,Mixer Grinder,2,14446,0.0,28892,Cash,Pending
+2049,07-06-2024,Ravi Kumar,North,Amit,Furniture,Sofa Set,2,10042,0.1,20084,Cash,Delivered
+2050,06-09-2024,Ravi Kumar,West,Amit,Electronics,Mouse,4,23840,0.0,95360,Upi,Delivered
+2051,07-06-2024,Pooja Singh,East,Anita,Furniture,Sofa Set,1,1770,0.1,1770,Upi,Pending
+2052,29-02-2024,John Smith,South,Anita,Electronics,Keyboard,2,4037,0.0,8074,Cash,Delivered
+2053,01-03-2024,Unknown,South,Rahul,Electronics,Headphones,6,29289,0.0,175734,Net Banking,Pending
+2054,22-02-2024,Meena Patel,West,Rahul,Electronics,Mouse,2,33963,0.0,67926,Card,Pending
+2055,28-04-2024,John Smith,East,Neha,Home Decor,Table Lamp,2,11222,0.0,22444,Card,Pending
+2056,05-04-2024,John Smith,West,Rahul,Electronics,Mouse,5,48812,0.0,244060,Upi,Delivered
+2057,03-02-2024,Sunil,East,Amit,Appliances,Mixer Grinder,4,31395,0.0,125580,Card,Delivered
+2058,02-02-2024,John Smith,East,Amit,Electronics,Keyboard,4,38478,0.1,153912,Upi,Delivered
+2059,26-01-2024,Meena Patel,North,Amit,Electronics,Headphones,2,5481,0.1,10962,Net Banking,Pending
+2060,06-01-2024,Ravi Kumar,north,Anita,Electronics,Mobile Phone,5,47042,0.1,235210,Card,Pending
+2061,04-03-2024,Pooja Singh,East,Anita,Electronics,Laptop,6,18042,0.1,108252,Upi,Pending
+2062,18-01-2024,John Smith,West,Anita,Furniture,Sofa Set,6,48106,0.0,288636,Card,Pending
+2063,03-07-2024,Sunil,South,Suresh,Electronics,Smart Watch,5,49384,0.0,246920,Net Banking,Pending
+2064,25-02-2024,Akash Verma,North,Rahul,Electronics,Smart Watch,1,41783,0.1,41783,Upi,Delivered
+2065,03-06-2024,Pooja Singh,West,Amit,Electronics,Smart Watch,2,21930,0.1,43860,Upi,Pending
+2066,22-05-2024,Meena Patel,East,Rahul,Appliances,Mixer Grinder,3,42722,0.1,128166,Cash,Delivered
+2067,28-03-2024,Meena Patel,East,Neha,Appliances,Mixer Grinder,5,43105,0.0,215525,Upi,Delivered
+2068,04-12-2024,Pooja Singh,north,Rahul,Electronics,Mobile Phone,6,37647,0.1,225882,Card,Pending
+2069,13-05-2024,John Smith,South,Anita,Home Decor,Table Lamp,1,3958,0.1,3958,Card,Delivered
+2070,01-03-2024,Sunil,South,Neha,Electronics,Router,6,1000,0.1,6000,Upi,Pending
+2071,25-01-2024,Unknown,north,Amit,Appliances,Mixer Grinder,4,46059,0.0,184236,Card,Pending
+2072,01-03-2024,Meena Patel,North,Anita,Furniture,Sofa Set,3,35331,0.1,105993,Upi,Pending
+2073,20-06-2024,Sunil,East,Rahul,Electronics,Router,3,24580,0.0,73740,Cash,Delivered
+2074,22-02-2024,Unknown,East,Amit,Electronics,Mobile Phone,2,33170,0.1,66340,Card,Delivered
+2075,26-01-2024,Unknown,West,Anita,Electronics,Keyboard,3,30064,0.1,90192,Net Banking,Pending
+2076,16-04-2024,Sunil,East,Rahul,Electronics,Power Bank,5,36928,0.0,184640,Card,Delivered
+2077,19-06-2024,Unknown,South,Anita,Electronics,Mouse,1,13572,0.1,13572,Upi,Delivered
+2078,30-03-2024,Ravi Kumar,north,Anita,Furniture,Office Chair,2,3824,0.0,7648,Cash,Delivered
+2079,05-08-2024,Meena Patel,East,Rahul,Electronics,Router,3,14530,0.1,43590,Net Banking,Pending
+2080,21-04-2024,Ravi Kumar,North,Anita,Electronics,Router,3,2526,0.1,7578,Card,Delivered
+2081,13-02-2024,Pooja Singh,East,Rahul,Furniture,Office Chair,2,52814,0.1,105628,Upi,Pending
+2082,26-02-2024,Unknown,North,Anita,Appliances,Mixer Grinder,1,16140,0.1,16140,Cash,Pending
+2083,03-02-2024,Ravi Kumar,north,Amit,Furniture,Sofa Set,2,35151,0.0,70302,Net Banking,Delivered
+2084,17-03-2024,Meena Patel,West,Suresh,Electronics,Mobile Phone,1,19561,0.0,19561,Card,Pending
+2085,20-01-2024,John Smith,South,Suresh,Electronics,Power Bank,3,42649,0.1,127947,Card,Pending
+2086,19-06-2024,Sunil,East,Anita,Electronics,Router,2,28601,0.0,57202,Card,Delivered
+2087,13-04-2024,Akash Verma,East,Anita,Electronics,Mobile Phone,5,38331,0.0,191655,Net Banking,Pending
+2088,02-07-2024,Akash Verma,West,Suresh,Appliances,Mixer Grinder,4,32211,0.1,128844,Upi,Pending
+2089,06-06-2024,Meena Patel,North,Rahul,Electronics,Smart Watch,4,18532,0.0,74128,Card,Pending
+2090,16-05-2024,Meena Patel,South,Rahul,Electronics,Mobile Phone,4,52410,0.1,209640,Upi,Delivered
+2091,05-01-2024,Meena Patel,West,Anita,Electronics,Mouse,5,25816,0.0,129080,Net Banking,Pending
+2092,16-03-2024,Meena Patel,East,Amit,Electronics,Mouse,3,6687,0.1,20061,Card,Delivered
+2093,03-05-2024,Meena Patel,South,Neha,Electronics,Headphones,6,28695,0.1,172170,Upi,Pending
+2094,05-01-2024,Unknown,West,Anita,Electronics,Laptop,3,22621,0.1,67863,Net Banking,Delivered
+2095,29-03-2024,Ravi Kumar,north,Anita,Electronics,Power Bank,1,23732,0.1,23732,Net Banking,Pending
+2096,25-02-2024,Pooja Singh,East,Neha,Electronics,Router,3,38828,0.0,116484,Net Banking,Delivered
+2097,06-03-2024,Pooja Singh,West,Rahul,Home Decor,Table Lamp,3,16931,0.1,50793,Net Banking,Pending
+2098,25-01-2024,Ravi Kumar,East,Amit,Appliances,Mixer Grinder,3,26765,0.0,80295,Upi,Delivered
+2099,03-06-2024,Ravi Kumar,north,Anita,Electronics,Mobile Phone,5,931,0.1,4655,Upi,Pending
+2100,27-04-2024,John Smith,South,Anita,Electronics,Mouse,2,43298,0.0,86596,Card,Delivered
+2101,27-05-2024,Meena Patel,South,Suresh,Electronics,Headphones,4,1583,0.1,6332,Net Banking,Delivered
+2102,08-06-2024,John Smith,West,Amit,Home Decor,Table Lamp,1,11570,0.1,11570,Card,Pending
+2103,23-05-2024,Akash Verma,South,Rahul,Electronics,Laptop,3,43914,0.1,131742,Cash,Pending
+2104,28-06-2024,Pooja Singh,South,Rahul,Electronics,Router,4,27319,0.1,109276,Cash,Delivered
+2105,17-03-2024,Unknown,East,Anita,Furniture,Sofa Set,3,40545,0.0,121635,Cash,Delivered
+2106,25-02-2024,Sunil,North,Rahul,Electronics,Smart Watch,4,20694,0.1,82776,Net Banking,Pending
+2107,18-04-2024,Ravi Kumar,West,Anita,Electronics,Power Bank,5,28038,0.1,140190,Upi,Delivered
+2108,17-04-2024,Meena Patel,West,Neha,Electronics,Smart Watch,3,11748,0.1,35244,Net Banking,Pending
+2109,17-03-2024,Pooja Singh,north,Amit,Electronics,Keyboard,1,6482,0.0,6482,Upi,Delivered
+2110,22-04-2024,John Smith,East,Rahul,Appliances,Mixer Grinder,2,17130,0.0,34260,Cash,Delivered
+2111,01-03-2024,Ravi Kumar,East,Suresh,Electronics,Keyboard,4,26323,0.1,105292,Card,Delivered
+2112,14-03-2024,Akash Verma,North,Neha,Electronics,Mobile Phone,4,39275,0.0,157100,Upi,Pending
+2113,27-02-2024,Ravi Kumar,West,Rahul,Appliances,Mixer Grinder,5,851,0.1,4255,Card,Pending
+2114,30-03-2024,John Smith,East,Rahul,Electronics,Keyboard,5,12331,0.1,61655,Card,Pending
+2115,04-05-2024,Pooja Singh,North,Amit,Electronics,Keyboard,1,25868,0.1,25868,Cash,Delivered
+2116,02-01-2024,Pooja Singh,South,Amit,Appliances,Mixer Grinder,2,3443,0.0,6886,Card,Delivered
+2117,18-05-2024,Sunil,South,Anita,Furniture,Sofa Set,5,2873,0.0,14365,Cash,Pending
+2118,23-01-2024,Meena Patel,West,Anita,Electronics,Laptop,3,2843,0.1,8529,Card,Delivered
+2119,17-02-2024,Ravi Kumar,West,Suresh,Electronics,Mobile Phone,2,37284,0.1,74568,Card,Delivered
+2120,02-08-2024,Akash Verma,West,Rahul,Electronics,Mobile Phone,6,40338,0.1,242028,Cash,Delivered
+2121,22-04-2024,Pooja Singh,North,Neha,Electronics,Power Bank,3,22119,0.0,66357,Card,Pending
+2122,24-02-2024,John Smith,West,Rahul,Electronics,Mobile Phone,2,14578,0.1,29156,Cash,Delivered
+2123,13-04-2024,Akash Verma,North,Neha,Electronics,Power Bank,1,9118,0.1,9118,Upi,Delivered
+2124,04-02-2024,Ravi Kumar,North,Rahul,Electronics,Mouse,5,26566,0.1,132830,Upi,Pending
+2125,06-02-2024,Ravi Kumar,East,Amit,Electronics,Router,3,5762,0.0,17286,Cash,Pending
+2126,15-06-2024,Unknown,West,Anita,Electronics,Power Bank,2,51282,0.0,102564,Net Banking,Delivered
+2127,05-12-2024,Pooja Singh,South,Amit,Furniture,Sofa Set,2,45953,0.1,91906,Cash,Pending
+2128,13-05-2024,Sunil,North,Anita,Electronics,Keyboard,3,16294,0.1,48882,Card,Delivered
+2129,26-06-2024,Sunil,South,Rahul,Electronics,Router,2,38442,0.1,76884,Upi,Delivered
+2130,05-03-2024,Pooja Singh,North,Suresh,Electronics,Router,3,17715,0.0,53145,Card,Pending
+2131,13-06-2024,John Smith,East,Neha,Furniture,Sofa Set,5,29612,0.1,148060,Upi,Delivered
+2132,01-03-2024,Sunil,East,Rahul,Electronics,Power Bank,3,23135,0.1,69405,Cash,Pending
+2133,15-05-2024,Akash Verma,South,Anita,Home Decor,Table Lamp,4,48179,0.1,192716,Cash,Pending
+2134,13-06-2024,Unknown,north,Rahul,Electronics,Laptop,2,41584,0.1,83168,Upi,Pending
+2135,05-10-2024,John Smith,north,Anita,Electronics,Mouse,2,28423,0.1,56846,Upi,Pending
+2136,18-03-2024,John Smith,South,Amit,Appliances,Mixer Grinder,5,47055,0.1,235275,Card,Pending
+2137,04-04-2024,John Smith,East,Anita,Electronics,Headphones,3,54975,0.1,164925,Upi,Delivered
+2138,02-01-2024,Sunil,South,Amit,Electronics,Mouse,5,33396,0.1,166980,Cash,Pending
+2139,06-06-2024,Sunil,South,Amit,Electronics,Laptop,4,724,0.1,2896,Card,Pending
+2140,24-04-2024,John Smith,north,Rahul,Furniture,Sofa Set,5,9198,0.1,45990,Net Banking,Delivered
+2141,22-05-2024,Unknown,East,Neha,Furniture,Office Chair,1,4109,0.1,4109,Upi,Pending
+2142,19-04-2024,Meena Patel,South,Amit,Electronics,Headphones,6,39240,0.0,235440,Cash,Pending
+2143,25-04-2024,Ravi Kumar,north,Anita,Home Decor,Table Lamp,4,54081,0.0,216324,Cash,Pending
+2144,05-11-2024,John Smith,north,Neha,Furniture,Sofa Set,6,7931,0.1,47586,Card,Pending
+2145,29-05-2024,Ravi Kumar,West,Amit,Electronics,Smart Watch,1,16712,0.1,16712,Upi,Delivered
+2146,31-01-2024,Meena Patel,East,Rahul,Electronics,Laptop,1,21940,0.1,21940,Upi,Pending
+2147,25-04-2024,Unknown,West,Rahul,Electronics,Laptop,4,28760,0.0,115040,Net Banking,Pending
+2148,16-06-2024,Ravi Kumar,West,Rahul,Electronics,Smart Watch,6,33043,0.1,198258,Upi,Delivered
+2149,27-02-2024,Pooja Singh,East,Anita,Electronics,Headphones,2,18955,0.0,37910,Upi,Delivered
+2150,23-04-2024,John Smith,West,Anita,Electronics,Headphones,3,34392,0.0,103176,Cash,Pending
+2151,06-02-2024,Meena Patel,South,Anita,Electronics,Mouse,3,20009,0.1,60027,Upi,Pending
+2152,01-12-2024,Unknown,East,Neha,Furniture,Office Chair,6,47238,0.1,283428,Cash,Delivered
+2153,02-10-2024,Unknown,West,Neha,Home Decor,Table Lamp,2,2429,0.0,4858,Card,Delivered
+2154,04-09-2024,Pooja Singh,West,Rahul,Electronics,Power Bank,6,9675,0.0,58050,Card,Pending
+2155,28-01-2024,John Smith,South,Anita,Electronics,Keyboard,1,49468,0.1,49468,Cash,Delivered
+2156,06-09-2024,Akash Verma,East,Amit,Home Decor,Table Lamp,3,33732,0.1,101196,Cash,Delivered
+2157,01-04-2024,Meena Patel,North,Rahul,Appliances,Mixer Grinder,4,52521,0.1,210084,Cash,Delivered
+2158,12-04-2024,Ravi Kumar,South,Neha,Home Decor,Table Lamp,2,26767,0.0,53534,Upi,Delivered
+2159,07-03-2024,John Smith,East,Neha,Electronics,Mouse,1,2404,0.1,2404,Upi,Pending
+2160,13-06-2024,Meena Patel,South,Rahul,Electronics,Mouse,5,49054,0.0,245270,Card,Pending
+2161,23-02-2024,Ravi Kumar,north,Anita,Electronics,Keyboard,1,3566,0.1,3566,Card,Delivered
+2162,03-07-2024,Ravi Kumar,South,Amit,Electronics,Headphones,4,42861,0.0,171444,Upi,Pending
+2163,22-03-2024,Sunil,East,Amit,Electronics,Mobile Phone,5,6585,0.1,32925,Card,Delivered
+2164,29-04-2024,Meena Patel,South,Amit,Electronics,Smart Watch,5,13030,0.1,65150,Cash,Pending
+2165,26-05-2024,Ravi Kumar,North,Suresh,Electronics,Headphones,4,8702,0.1,34808,Card,Delivered
+2166,31-01-2024,Unknown,West,Suresh,Furniture,Sofa Set,5,22647,0.1,113235,Cash,Delivered
+2167,04-02-2024,Ravi Kumar,North,Rahul,Furniture,Sofa Set,3,4563,0.0,13689,Upi,Delivered
+2168,29-01-2024,Akash Verma,East,Amit,Electronics,Router,4,7467,0.1,29868,Card,Delivered
+2169,06-04-2024,Sunil,North,Suresh,Appliances,Mixer Grinder,6,38133,0.0,228798,Upi,Delivered
+2170,04-01-2024,Unknown,East,Anita,Electronics,Mouse,6,37347,0.1,224082,Card,Pending
+2171,29-05-2024,John Smith,West,Amit,Electronics,Headphones,2,35892,0.0,71784,Upi,Pending
+2172,06-01-2024,Ravi Kumar,South,Rahul,Home Decor,Table Lamp,1,3998,0.0,3998,Upi,Pending
+2173,29-01-2024,Akash Verma,South,Anita,Furniture,Office Chair,3,49991,0.0,149973,Card,Pending
+2174,24-04-2024,Unknown,East,Neha,Electronics,Headphones,2,12390,0.0,24780,Cash,Pending
+2175,02-10-2024,Ravi Kumar,West,Anita,Electronics,Mouse,5,53167,0.1,265835,Upi,Delivered
+2176,06-10-2024,Pooja Singh,West,Amit,Home Decor,Table Lamp,6,21121,0.1,126726,Cash,Delivered
+2177,02-10-2024,Unknown,South,Anita,Electronics,Mouse,1,34801,0.1,34801,Upi,Pending
+2178,20-01-2024,Pooja Singh,South,Suresh,Electronics,Smart Watch,3,7852,0.0,23556,Upi,Delivered
+2179,06-08-2024,Pooja Singh,East,Rahul,Home Decor,Table Lamp,4,46139,0.1,184556,Card,Delivered
+2180,18-04-2024,Unknown,East,Rahul,Electronics,Router,3,9207,0.0,27621,Net Banking,Pending
+2181,22-05-2024,Meena Patel,East,Rahul,Electronics,Keyboard,4,52015,0.1,208060,Card,Delivered
+2182,13-05-2024,Sunil,South,Suresh,Home Decor,Table Lamp,2,24167,0.1,48334,Cash,Pending
+2183,06-10-2024,Akash Verma,East,Suresh,Electronics,Router,1,7778,0.1,7778,Upi,Pending
+2184,20-05-2024,Akash Verma,West,Rahul,Electronics,Smart Watch,5,22086,0.0,110430,Upi,Pending
+2185,11-04-2024,John Smith,West,Neha,Electronics,Keyboard,1,2965,0.1,2965,Upi,Delivered
+2186,17-01-2024,Sunil,West,Rahul,Electronics,Mobile Phone,6,42904,0.0,257424,Upi,Delivered
+2187,22-01-2024,Pooja Singh,South,Neha,Appliances,Mixer Grinder,6,10020,0.0,60120,Net Banking,Delivered
+2188,15-06-2024,Meena Patel,East,Rahul,Electronics,Power Bank,2,50655,0.1,101310,Upi,Delivered
+2189,21-06-2024,John Smith,South,Neha,Electronics,Headphones,5,32876,0.1,164380,Net Banking,Pending
+2190,19-06-2024,Meena Patel,north,Anita,Electronics,Headphones,3,13789,0.1,41367,Card,Delivered
+2191,12-01-2024,Pooja Singh,East,Rahul,Electronics,Power Bank,5,38803,0.1,194015,Upi,Delivered
+2192,25-05-2024,Meena Patel,north,Amit,Electronics,Keyboard,5,19407,0.0,97035,Net Banking,Pending
+2193,02-09-2024,John Smith,East,Rahul,Electronics,Router,1,53851,0.0,53851,Upi,Delivered
+2194,29-02-2024,Unknown,West,Anita,Electronics,Smart Watch,4,15428,0.0,61712,Cash,Delivered
+2195,19-05-2024,John Smith,West,Suresh,Electronics,Mobile Phone,4,39305,0.0,157220,Card,Delivered
+2196,19-05-2024,Ravi Kumar,West,Rahul,Electronics,Keyboard,2,13139,0.1,26278,Card,Pending
+2197,27-01-2024,Unknown,North,Rahul,Electronics,Router,5,31068,0.1,155340,Cash,Delivered
+2198,17-05-2024,Pooja Singh,West,Anita,Electronics,Smart Watch,3,20734,0.1,62202,Card,Pending
+2199,21-06-2024,Akash Verma,West,Anita,Electronics,Headphones,1,13819,0.0,13819,Card,Pending
+2200,27-06-2024,Ravi Kumar,North,Rahul,Electronics,Laptop,1,47319,0.1,47319,Card,Delivered
+2201,02-05-2024,John Smith,north,Rahul,Electronics,Mouse,3,45417,0.0,136251,Cash,Delivered
+2202,24-01-2024,Pooja Singh,South,Rahul,Electronics,Smart Watch,3,4298,0.1,12894,Cash,Delivered
+2203,05-04-2024,Pooja Singh,South,Neha,Furniture,Sofa Set,4,38422,0.1,153688,Card,Delivered
+2204,26-02-2024,Pooja Singh,South,Neha,Electronics,Headphones,1,20412,0.1,20412,Upi,Pending
+2205,03-11-2024,Meena Patel,North,Anita,Electronics,Headphones,4,33590,0.0,134360,Net Banking,Pending
+2206,05-06-2024,Meena Patel,West,Rahul,Electronics,Mobile Phone,1,31010,0.1,31010,Upi,Delivered
+2207,19-04-2024,Sunil,north,Anita,Electronics,Smart Watch,5,20092,0.0,100460,Net Banking,Delivered
+2208,01-01-2024,John Smith,West,Rahul,Electronics,Keyboard,3,23677,0.1,71031,Cash,Delivered
+2209,01-08-2024,Sunil,West,Rahul,Electronics,Mobile Phone,2,51293,0.0,102586,Net Banking,Delivered
+2210,02-11-2024,Akash Verma,East,Anita,Electronics,Smart Watch,2,35891,0.1,71782,Net Banking,Delivered
+2211,20-04-2024,Pooja Singh,West,Anita,Appliances,Mixer Grinder,6,30203,0.1,181218,Net Banking,Delivered
+2212,20-06-2024,Sunil,East,Rahul,Electronics,Mouse,1,996,0.1,996,Upi,Delivered
+2213,01-02-2024,Unknown,north,Rahul,Electronics,Mouse,3,42552,0.1,127656,Card,Delivered
+2214,17-06-2024,Akash Verma,north,Anita,Appliances,Mixer Grinder,4,26710,0.0,106840,Cash,Delivered
+2215,05-12-2024,Unknown,West,Rahul,Electronics,Laptop,1,25054,0.1,25054,Upi,Pending
+2216,01-11-2024,Akash Verma,South,Anita,Furniture,Sofa Set,4,2097,0.1,8388,Card,Delivered
+2217,11-02-2024,John Smith,West,Neha,Furniture,Office Chair,2,35260,0.0,70520,Upi,Delivered
+2218,02-06-2024,John Smith,north,Anita,Electronics,Laptop,2,24346,0.1,48692,Cash,Delivered
+2219,23-02-2024,Unknown,north,Neha,Electronics,Mobile Phone,5,46955,0.1,234775,Net Banking,Pending
+2220,23-04-2024,Akash Verma,South,Anita,Electronics,Mouse,4,45357,0.0,181428,Card,Pending
+2221,18-02-2024,Ravi Kumar,north,Rahul,Appliances,Mixer Grinder,1,5233,0.0,5233,Upi,Pending
+2222,06-05-2024,Meena Patel,East,Amit,Electronics,Smart Watch,1,32949,0.1,32949,Card,Delivered
+2223,22-01-2024,Ravi Kumar,North,Suresh,Electronics,Headphones,2,40100,0.1,80200,Cash,Pending
+2224,19-01-2024,Meena Patel,West,Amit,Electronics,Router,2,42606,0.1,85212,Upi,Pending
+2225,17-05-2024,Akash Verma,north,Rahul,Home Decor,Table Lamp,6,18317,0.1,109902,Card,Pending
+2226,16-01-2024,Sunil,West,Anita,Electronics,Power Bank,4,49339,0.0,197356,Card,Delivered
+2227,29-01-2024,Akash Verma,South,Anita,Electronics,Mouse,5,26324,0.0,131620,Upi,Delivered
+2228,06-05-2024,John Smith,East,Suresh,Appliances,Mixer Grinder,4,3532,0.1,14128,Cash,Delivered
+2229,13-03-2024,Akash Verma,North,Rahul,Home Decor,Table Lamp,3,6638,0.1,19914,Upi,Delivered
+2230,04-05-2024,Akash Verma,north,Neha,Electronics,Router,1,54222,0.0,54222,Net Banking,Delivered
+2231,01-07-2024,Akash Verma,north,Anita,Furniture,Office Chair,2,37675,0.0,75350,Net Banking,Pending
+2232,05-08-2024,Pooja Singh,north,Rahul,Electronics,Mobile Phone,2,37869,0.1,75738,Upi,Delivered
+2233,02-10-2024,Akash Verma,South,Suresh,Electronics,Smart Watch,4,54349,0.1,217396,Card,Delivered
+2234,05-09-2024,Akash Verma,East,Anita,Electronics,Router,2,54756,0.0,109512,Card,Pending
+2235,21-02-2024,Unknown,East,Anita,Electronics,Keyboard,1,52643,0.1,52643,Net Banking,Pending
+2236,17-04-2024,John Smith,North,Rahul,Furniture,Sofa Set,5,16413,0.1,82065,Card,Pending
+2237,13-02-2024,Meena Patel,West,Amit,Furniture,Sofa Set,1,29218,0.1,29218,Upi,Delivered
+2238,05-08-2024,Sunil,East,Rahul,Electronics,Power Bank,1,22249,0.0,22249,Card,Pending
+2239,01-09-2024,Pooja Singh,East,Amit,Furniture,Office Chair,1,49285,0.1,49285,Card,Pending
+2240,17-01-2024,John Smith,West,Anita,Furniture,Sofa Set,6,14961,0.1,89766,Cash,Delivered
+2241,13-05-2024,Ravi Kumar,West,Rahul,Home Decor,Table Lamp,1,24033,0.0,24033,Cash,Pending
+2242,18-05-2024,Pooja Singh,North,Rahul,Furniture,Office Chair,2,1720,0.1,3440,Upi,Delivered
+2243,24-02-2024,Pooja Singh,West,Anita,Appliances,Mixer Grinder,5,6266,0.1,31330,Upi,Delivered
+2244,05-05-2024,John Smith,South,Amit,Electronics,Router,3,7756,0.1,23268,Card,Delivered
+2245,06-10-2024,John Smith,East,Anita,Electronics,Power Bank,2,15772,0.0,31544,Upi,Delivered
+2246,05-12-2024,Unknown,West,Amit,Furniture,Office Chair,5,45771,0.0,228855,Net Banking,Delivered
+2247,20-03-2024,Unknown,West,Anita,Electronics,Smart Watch,6,24391,0.1,146346,Net Banking,Pending
+2248,10-01-2024,Pooja Singh,South,Amit,Appliances,Mixer Grinder,1,36702,0.1,36702,Upi,Pending
+2249,02-10-2024,Meena Patel,East,Rahul,Electronics,Mouse,6,23710,0.0,142260,Card,Delivered
+2250,29-03-2024,Pooja Singh,East,Amit,Electronics,Headphones,4,11518,0.1,46072,Card,Pending
+2251,19-06-2024,Ravi Kumar,North,Rahul,Appliances,Mixer Grinder,4,49582,0.1,198328,Card,Delivered
+2252,26-05-2024,Pooja Singh,South,Anita,Electronics,Laptop,5,2395,0.0,11975,Upi,Delivered
+2253,20-03-2024,Pooja Singh,north,Rahul,Electronics,Keyboard,5,7941,0.1,39705,Net Banking,Delivered
+2254,06-07-2024,Sunil,north,Rahul,Appliances,Mixer Grinder,5,11765,0.0,58825,Upi,Pending
+2255,02-07-2024,Unknown,West,Suresh,Home Decor,Table Lamp,2,26238,0.1,52476,Card,Delivered
+2256,19-05-2024,Pooja Singh,West,Suresh,Furniture,Office Chair,3,48879,0.1,146637,Upi,Delivered
+2257,09-05-2024,Akash Verma,East,Anita,Appliances,Mixer Grinder,6,24914,0.1,149484,Upi,Delivered
+2258,17-06-2024,John Smith,East,Suresh,Electronics,Mouse,3,20577,0.1,61731,Upi,Delivered
+2259,02-02-2024,Unknown,East,Amit,Home Decor,Table Lamp,1,49849,0.1,49849,Cash,Pending
+2260,19-06-2024,Meena Patel,South,Rahul,Electronics,Mobile Phone,4,15366,0.1,61464,Net Banking,Delivered
+2261,24-04-2024,John Smith,East,Suresh,Appliances,Mixer Grinder,2,19971,0.1,39942,Card,Pending
+2262,23-04-2024,Meena Patel,South,Anita,Appliances,Mixer Grinder,3,27479,0.1,82437,Upi,Delivered
+2263,02-03-2024,Sunil,East,Rahul,Home Decor,Table Lamp,5,40351,0.1,201755,Card,Delivered
+2264,28-06-2024,Pooja Singh,West,Anita,Appliances,Mixer Grinder,3,38175,0.0,114525,Card,Delivered
+2265,05-07-2024,Ravi Kumar,South,Suresh,Furniture,Office Chair,5,10777,0.0,53885,Card,Delivered
+2266,17-04-2024,Akash Verma,West,Amit,Furniture,Office Chair,6,21871,0.0,131226,Card,Pending
+2267,26-03-2024,Unknown,South,Rahul,Electronics,Mouse,3,42986,0.0,128958,Net Banking,Pending
+2268,05-01-2024,Meena Patel,North,Anita,Electronics,Mobile Phone,2,14985,0.0,29970,Upi,Pending
+2269,13-02-2024,Meena Patel,East,Suresh,Electronics,Power Bank,5,12608,0.0,63040,Net Banking,Pending
+2270,01-03-2024,John Smith,West,Suresh,Electronics,Headphones,5,6760,0.0,33800,Card,Delivered
+2271,27-04-2024,Pooja Singh,South,Suresh,Electronics,Power Bank,4,52688,0.1,210752,Card,Pending
+2272,02-03-2024,Unknown,West,Anita,Electronics,Keyboard,2,41329,0.0,82658,Card,Delivered
+2273,23-04-2024,John Smith,South,Amit,Electronics,Headphones,6,31613,0.1,189678,Cash,Delivered
+2274,01-01-2024,Sunil,West,Anita,Furniture,Office Chair,5,15513,0.1,77565,Upi,Pending
+2275,16-03-2024,Unknown,East,Suresh,Home Decor,Table Lamp,5,30701,0.1,153505,Card,Pending
+2276,15-06-2024,Ravi Kumar,East,Rahul,Electronics,Smart Watch,1,32842,0.1,32842,Cash,Delivered
+2277,26-03-2024,Pooja Singh,West,Neha,Electronics,Router,6,10712,0.0,64272,Net Banking,Delivered
+2278,05-10-2024,John Smith,north,Rahul,Electronics,Keyboard,5,35059,0.1,175295,Cash,Pending
+2279,02-06-2024,Unknown,North,Amit,Furniture,Sofa Set,4,28671,0.0,114684,Cash,Pending
+2280,28-05-2024,Sunil,West,Rahul,Electronics,Power Bank,1,37280,0.1,37280,Net Banking,Pending
+2281,21-05-2024,Sunil,South,Rahul,Appliances,Mixer Grinder,4,43682,0.0,174728,Card,Pending
+2282,29-06-2024,John Smith,West,Anita,Electronics,Laptop,2,3517,0.1,7034,Card,Pending
+2283,06-03-2024,Sunil,West,Rahul,Electronics,Laptop,2,14471,0.0,28942,Card,Delivered
+2284,05-12-2024,Meena Patel,North,Amit,Electronics,Laptop,6,47845,0.0,287070,Upi,Delivered
+2285,20-05-2024,Akash Verma,East,Anita,Electronics,Router,4,36617,0.1,146468,Net Banking,Pending
+2286,21-06-2024,Ravi Kumar,West,Rahul,Furniture,Sofa Set,2,14524,0.1,29048,Card,Delivered
+2287,31-05-2024,Sunil,East,Neha,Electronics,Power Bank,4,20584,0.1,82336,Card,Delivered
+2288,30-03-2024,Pooja Singh,South,Rahul,Electronics,Headphones,2,30408,0.1,60816,Upi,Delivered
+2289,21-06-2024,Meena Patel,West,Anita,Appliances,Mixer Grinder,3,6036,0.1,18108,Card,Delivered
+2290,25-06-2024,Sunil,north,Anita,Electronics,Smart Watch,1,11391,0.1,11391,Upi,Delivered
+2291,05-06-2024,Pooja Singh,East,Anita,Electronics,Power Bank,3,2144,0.1,6432,Upi,Delivered
+2292,02-07-2024,John Smith,East,Suresh,Electronics,Keyboard,6,26230,0.1,157380,Card,Delivered
+2293,05-05-2024,Pooja Singh,East,Amit,Home Decor,Table Lamp,1,43056,0.1,43056,Card,Delivered
+2294,19-01-2024,Akash Verma,South,Anita,Furniture,Sofa Set,2,48143,0.1,96286,Net Banking,Pending
+2295,26-02-2024,Ravi Kumar,East,Rahul,Furniture,Office Chair,6,44815,0.0,268890,Card,Pending
+2296,21-06-2024,Akash Verma,South,Amit,Appliances,Mixer Grinder,6,7146,0.0,42876,Cash,Pending
+2297,23-02-2024,Sunil,North,Suresh,Electronics,Router,3,29037,0.0,87111,Upi,Pending
+2298,22-01-2024,Ravi Kumar,North,Anita,Electronics,Mobile Phone,6,20250,0.1,121500,Upi,Pending
+2299,16-02-2024,John Smith,West,Anita,Electronics,Headphones,3,37322,0.0,111966,Card,Delivered
+2300,09-02-2024,Meena Patel,South,Anita,Appliances,Mixer Grinder,2,29889,0.1,59778,Cash,Pending
+2301,05-09-2024,John Smith,South,Neha,Furniture,Office Chair,5,36827,0.0,184135,Card,Pending
+2302,26-02-2024,John Smith,South,Neha,Electronics,Power Bank,2,29629,0.1,59258,Upi,Pending
+2303,14-04-2024,Ravi Kumar,South,Suresh,Electronics,Power Bank,2,34178,0.1,68356,Cash,Delivered
+2304,01-01-2024,Pooja Singh,North,Suresh,Electronics,Headphones,3,29566,0.1,88698,Upi,Pending
+2305,05-10-2024,Akash Verma,north,Neha,Appliances,Mixer Grinder,6,19801,0.0,118806,Cash,Pending
+2306,17-02-2024,Sunil,South,Anita,Furniture,Office Chair,5,54308,0.1,271540,Card,Pending
+2307,06-03-2024,John Smith,north,Rahul,Home Decor,Table Lamp,3,1312,0.1,3936,Card,Delivered
+2308,25-03-2024,Akash Verma,north,Anita,Electronics,Keyboard,3,37166,0.1,111498,Upi,Delivered
+2309,13-02-2024,Sunil,East,Anita,Electronics,Power Bank,5,31261,0.1,156305,Card,Delivered
+2310,08-01-2024,Pooja Singh,north,Amit,Home Decor,Table Lamp,6,45157,0.1,270942,Cash,Delivered
+2311,22-05-2024,Akash Verma,North,Neha,Electronics,Headphones,3,33333,0.1,99999,Upi,Pending
+2312,13-03-2024,Unknown,North,Anita,Electronics,Power Bank,2,12058,0.1,24116,Net Banking,Delivered
+2313,01-01-2024,Ravi Kumar,West,Rahul,Electronics,Mouse,2,7355,0.1,14710,Cash,Pending
+2314,02-01-2024,John Smith,North,Neha,Electronics,Headphones,6,1997,0.0,11982,Card,Pending
+2315,24-01-2024,Unknown,North,Suresh,Electronics,Mobile Phone,6,37244,0.1,223464,Card,Pending
+2316,21-05-2024,Pooja Singh,South,Amit,Electronics,Laptop,2,53502,0.1,107004,Upi,Pending
+2317,16-06-2024,Ravi Kumar,East,Neha,Electronics,Headphones,6,33464,0.0,200784,Net Banking,Pending
+2318,15-01-2024,Ravi Kumar,East,Neha,Electronics,Keyboard,3,47420,0.1,142260,Card,Pending
+2319,04-08-2024,Unknown,South,Anita,Electronics,Mobile Phone,2,41437,0.1,82874,Cash,Delivered
+2320,25-03-2024,Akash Verma,North,Rahul,Furniture,Sofa Set,5,17379,0.1,86895,Net Banking,Delivered
+2321,26-05-2024,Unknown,East,Rahul,Electronics,Mouse,6,46319,0.1,277914,Card,Pending
+2322,26-06-2024,Akash Verma,South,Rahul,Electronics,Smart Watch,3,3590,0.1,10770,Card,Pending
+2323,04-05-2024,Meena Patel,north,Anita,Electronics,Mobile Phone,4,24350,0.0,97400,Card,Pending
+2324,18-01-2024,John Smith,South,Suresh,Electronics,Headphones,1,32193,0.0,32193,Card,Delivered
+2325,22-06-2024,Ravi Kumar,South,Neha,Furniture,Sofa Set,3,7005,0.1,21015,Upi,Pending
+2326,05-07-2024,Unknown,West,Rahul,Electronics,Keyboard,3,27671,0.1,83013,Net Banking,Delivered
+2327,18-01-2024,Akash Verma,West,Anita,Electronics,Keyboard,3,54003,0.0,162009,Card,Delivered
+2328,15-06-2024,John Smith,north,Rahul,Electronics,Mobile Phone,1,16291,0.1,16291,Net Banking,Delivered
+2329,24-04-2024,Meena Patel,West,Anita,Electronics,Mouse,6,24627,0.1,147762,Upi,Pending
+2330,02-07-2024,Pooja Singh,East,Rahul,Electronics,Headphones,1,17034,0.1,17034,Upi,Pending
+2331,23-05-2024,Meena Patel,South,Amit,Furniture,Sofa Set,6,44904,0.0,269424,Net Banking,Pending
+2332,14-03-2024,Ravi Kumar,South,Rahul,Electronics,Router,5,46343,0.1,231715,Card,Pending
+2333,05-02-2024,Akash Verma,north,Anita,Electronics,Laptop,2,17824,0.0,35648,Upi,Pending
+2334,25-04-2024,Sunil,North,Suresh,Electronics,Laptop,6,47940,0.1,287640,Upi,Pending
+2335,06-01-2024,Meena Patel,North,Amit,Electronics,Router,6,15815,0.0,94890,Cash,Delivered
+2336,22-03-2024,Ravi Kumar,East,Neha,Electronics,Power Bank,5,22213,0.1,111065,Card,Pending
+2337,20-04-2024,Meena Patel,South,Suresh,Electronics,Keyboard,5,20383,0.0,101915,Net Banking,Delivered
+2338,18-04-2024,Ravi Kumar,South,Amit,Electronics,Power Bank,2,25078,0.1,50156,Card,Delivered
+2339,16-03-2024,Pooja Singh,West,Anita,Appliances,Mixer Grinder,4,39935,0.0,159740,Upi,Delivered
+2340,06-10-2024,Sunil,East,Anita,Furniture,Sofa Set,5,3527,0.1,17635,Upi,Pending
+2341,29-05-2024,Pooja Singh,South,Anita,Electronics,Smart Watch,6,53187,0.0,319122,Net Banking,Delivered
+2342,02-03-2024,Akash Verma,North,Suresh,Electronics,Mobile Phone,3,2179,0.0,6537,Cash,Pending
+2343,13-01-2024,John Smith,North,Rahul,Electronics,Smart Watch,4,32272,0.1,129088,Net Banking,Pending
+2344,01-09-2024,Pooja Singh,West,Amit,Appliances,Mixer Grinder,4,3647,0.1,14588,Upi,Pending
+2345,24-02-2024,Meena Patel,West,Anita,Electronics,Headphones,5,41872,0.0,209360,Net Banking,Pending
+2346,21-04-2024,Ravi Kumar,West,Neha,Electronics,Mouse,1,49594,0.0,49594,Net Banking,Pending
+2347,27-02-2024,Ravi Kumar,West,Suresh,Appliances,Mixer Grinder,2,38677,0.1,77354,Net Banking,Delivered
+2348,26-01-2024,Pooja Singh,East,Neha,Appliances,Mixer Grinder,4,51057,0.1,204228,Net Banking,Pending
+2349,29-01-2024,Unknown,West,Anita,Home Decor,Table Lamp,3,24870,0.0,74610,Upi,Pending
+2350,04-03-2024,Unknown,North,Anita,Electronics,Mouse,5,14903,0.1,74515,Card,Pending
+2351,14-06-2024,Meena Patel,North,Anita,Electronics,Keyboard,5,7982,0.0,39910,Card,Delivered
+2352,13-02-2024,Akash Verma,East,Anita,Electronics,Headphones,5,37570,0.1,187850,Card,Delivered
+2353,06-05-2024,Sunil,South,Neha,Furniture,Office Chair,4,6392,0.0,25568,Upi,Pending
+2354,02-08-2024,Sunil,East,Rahul,Electronics,Laptop,3,51116,0.1,153348,Net Banking,Delivered
+2355,20-05-2024,Akash Verma,East,Neha,Electronics,Mouse,3,9465,0.0,28395,Upi,Delivered
+2356,02-04-2024,Meena Patel,West,Neha,Appliances,Mixer Grinder,5,6601,0.0,33005,Cash,Pending
+2357,30-01-2024,Ravi Kumar,East,Anita,Electronics,Mobile Phone,6,1694,0.1,10164,Upi,Pending
+2358,01-09-2024,Pooja Singh,South,Amit,Electronics,Power Bank,2,54624,0.1,109248,Net Banking,Pending
+2359,05-02-2024,Pooja Singh,South,Anita,Electronics,Keyboard,5,49573,0.1,247865,Cash,Pending
+2360,26-06-2024,Ravi Kumar,East,Anita,Electronics,Mobile Phone,1,11562,0.1,11562,Upi,Pending
+2361,30-04-2024,Pooja Singh,West,Anita,Electronics,Laptop,6,8012,0.1,48072,Upi,Delivered
+2362,20-04-2024,Akash Verma,West,Suresh,Electronics,Headphones,1,50564,0.1,50564,Upi,Pending
+2363,13-01-2024,Ravi Kumar,West,Suresh,Electronics,Mobile Phone,2,11023,0.0,22046,Cash,Delivered
+2364,04-04-2024,Pooja Singh,South,Suresh,Electronics,Keyboard,5,39811,0.1,199055,Upi,Delivered
+2365,25-03-2024,Meena Patel,South,Rahul,Home Decor,Table Lamp,3,26930,0.0,80790,Cash,Delivered
+2366,27-02-2024,Pooja Singh,North,Neha,Home Decor,Table Lamp,6,38311,0.1,229866,Upi,Pending
+2367,02-05-2024,Sunil,East,Amit,Electronics,Headphones,6,44712,0.1,268272,Upi,Delivered
+2368,02-03-2024,Sunil,West,Amit,Electronics,Power Bank,2,51693,0.1,103386,Card,Pending
+2369,14-04-2024,Ravi Kumar,East,Rahul,Electronics,Mobile Phone,5,5558,0.1,27790,Upi,Pending
+2370,13-06-2024,Meena Patel,West,Anita,Electronics,Keyboard,6,18442,0.1,110652,Card,Delivered
+2371,05-05-2024,Ravi Kumar,north,Amit,Electronics,Power Bank,3,9061,0.1,27183,Net Banking,Delivered
+2372,05-06-2024,Meena Patel,East,Suresh,Electronics,Headphones,5,10349,0.0,51745,Card,Delivered
+2373,26-02-2024,Sunil,West,Suresh,Furniture,Sofa Set,4,37406,0.1,149624,Card,Pending
+2374,02-10-2024,Akash Verma,north,Neha,Furniture,Sofa Set,2,53916,0.0,107832,Upi,Delivered
+2375,17-04-2024,Ravi Kumar,South,Anita,Electronics,Smart Watch,1,34915,0.1,34915,Cash,Pending
+2376,02-05-2024,Ravi Kumar,South,Suresh,Electronics,Laptop,5,23511,0.1,117555,Cash,Pending
+2377,04-12-2024,Akash Verma,north,Rahul,Electronics,Headphones,4,24637,0.1,98548,Cash,Delivered
+2378,27-02-2024,Sunil,East,Rahul,Electronics,Power Bank,3,37662,0.1,112986,Cash,Delivered
+2379,17-01-2024,John Smith,South,Neha,Electronics,Mobile Phone,4,42641,0.0,170564,Net Banking,Pending
+2380,25-02-2024,Unknown,North,Anita,Electronics,Keyboard,5,29222,0.0,146110,Cash,Pending
+2381,29-01-2024,Akash Verma,South,Suresh,Appliances,Mixer Grinder,5,27242,0.1,136210,Card,Pending
+2382,03-02-2024,Unknown,South,Neha,Appliances,Mixer Grinder,1,45685,0.1,45685,Upi,Pending
+2383,19-01-2024,Akash Verma,North,Rahul,Home Decor,Table Lamp,5,2959,0.0,14795,Net Banking,Delivered
+2384,23-05-2024,John Smith,South,Neha,Electronics,Mobile Phone,2,33706,0.1,67412,Card,Pending
+2385,26-03-2024,Akash Verma,South,Rahul,Electronics,Mouse,5,22264,0.0,111320,Net Banking,Delivered
+2386,10-04-2024,Sunil,East,Neha,Home Decor,Table Lamp,1,47910,0.1,47910,Card,Pending
+2387,23-01-2024,Meena Patel,West,Amit,Electronics,Mobile Phone,4,3103,0.0,12412,Net Banking,Pending
+2388,01-11-2024,Meena Patel,North,Anita,Home Decor,Table Lamp,1,48140,0.1,48140,Net Banking,Pending
+2389,31-05-2024,Ravi Kumar,West,Rahul,Appliances,Mixer Grinder,4,40463,0.0,161852,Cash,Delivered
+2390,30-01-2024,Sunil,north,Amit,Appliances,Mixer Grinder,4,49198,0.1,196792,Cash,Pending
+2391,04-09-2024,Sunil,South,Anita,Appliances,Mixer Grinder,6,33849,0.1,203094,Upi,Pending
+2392,04-05-2024,Ravi Kumar,West,Neha,Furniture,Sofa Set,3,34979,0.0,104937,Upi,Pending
+2393,22-01-2024,John Smith,East,Rahul,Electronics,Power Bank,4,35407,0.1,141628,Upi,Pending
+2394,11-04-2024,Meena Patel,north,Neha,Furniture,Sofa Set,1,44192,0.0,44192,Upi,Pending
+2395,18-01-2024,Unknown,South,Amit,Electronics,Headphones,6,36394,0.1,218364,Upi,Pending
+2396,13-02-2024,Ravi Kumar,north,Anita,Electronics,Mouse,6,34278,0.0,205668,Upi,Pending
+2397,15-04-2024,Sunil,South,Rahul,Electronics,Mobile Phone,4,52147,0.0,208588,Upi,Delivered
+2398,21-05-2024,Akash Verma,East,Anita,Electronics,Keyboard,3,49716,0.0,149148,Card,Delivered
+2399,10-01-2024,John Smith,West,Amit,Electronics,Router,4,53820,0.1,215280,Card,Pending
+2400,19-05-2024,John Smith,north,Neha,Furniture,Sofa Set,5,10700,0.1,53500,Cash,Delivered
+2401,24-05-2024,Akash Verma,West,Rahul,Electronics,Mobile Phone,1,7620,0.1,7620,Upi,Delivered
+2402,13-04-2024,Akash Verma,South,Anita,Home Decor,Table Lamp,5,31568,0.1,157840,Card,Pending
+2403,23-05-2024,Sunil,North,Anita,Furniture,Sofa Set,1,12165,0.1,12165,Upi,Pending
+2404,31-03-2024,Sunil,East,Anita,Furniture,Office Chair,4,12643,0.0,50572,Upi,Pending
+2405,13-01-2024,Meena Patel,East,Neha,Home Decor,Table Lamp,1,8150,0.1,8150,Upi,Pending
+2406,20-01-2024,John Smith,South,Suresh,Furniture,Office Chair,2,32196,0.0,64392,Upi,Pending
+2407,23-01-2024,Ravi Kumar,South,Rahul,Appliances,Mixer Grinder,3,40934,0.0,122802,Net Banking,Pending
+2408,02-03-2024,Pooja Singh,West,Rahul,Appliances,Mixer Grinder,6,953,0.1,5718,Upi,Pending
+2409,13-06-2024,Meena Patel,East,Rahul,Electronics,Smart Watch,3,22004,0.0,66012,Upi,Delivered
+2410,29-02-2024,Ravi Kumar,West,Suresh,Electronics,Laptop,5,31407,0.0,157035,Card,Pending
+2411,24-05-2024,Meena Patel,East,Anita,Electronics,Mobile Phone,4,35346,0.0,141384,Card,Pending
+2412,27-04-2024,Sunil,West,Anita,Electronics,Power Bank,3,48594,0.0,145782,Upi,Pending
+2413,01-12-2024,Unknown,South,Neha,Electronics,Smart Watch,6,51440,0.1,308640,Net Banking,Delivered
+2414,23-03-2024,Akash Verma,North,Anita,Furniture,Sofa Set,5,32268,0.0,161340,Cash,Delivered
+2415,05-10-2024,Sunil,South,Anita,Electronics,Router,5,27574,0.1,137870,Upi,Pending
+2416,26-06-2024,Ravi Kumar,East,Neha,Electronics,Router,5,46978,0.1,234890,Net Banking,Delivered
+2417,20-03-2024,Ravi Kumar,West,Anita,Electronics,Mouse,1,32441,0.1,32441,Card,Delivered
+2418,24-02-2024,Akash Verma,West,Anita,Electronics,Keyboard,1,3727,0.0,3727,Card,Pending
+2419,14-06-2024,Sunil,West,Rahul,Electronics,Mobile Phone,5,45473,0.0,227365,Net Banking,Pending
+2420,24-06-2024,John Smith,North,Anita,Appliances,Mixer Grinder,3,46350,0.0,139050,Card,Pending
+2421,27-01-2024,Pooja Singh,South,Anita,Electronics,Mouse,4,36287,0.1,145148,Card,Pending
+2422,01-04-2024,Ravi Kumar,South,Anita,Electronics,Headphones,3,39703,0.0,119109,Cash,Pending
+2423,01-12-2024,Sunil,West,Anita,Electronics,Keyboard,6,39385,0.1,236310,Net Banking,Pending
+2424,23-04-2024,John Smith,West,Suresh,Electronics,Power Bank,5,51199,0.1,255995,Card,Delivered
+2425,02-01-2024,Sunil,North,Amit,Electronics,Mouse,6,6779,0.1,40674,Upi,Delivered
+2426,13-04-2024,Meena Patel,north,Neha,Furniture,Office Chair,2,7890,0.0,15780,Card,Pending
+2427,29-04-2024,Akash Verma,north,Neha,Appliances,Mixer Grinder,4,28828,0.1,115312,Upi,Pending
+2428,21-05-2024,Ravi Kumar,West,Anita,Electronics,Smart Watch,1,40062,0.1,40062,Upi,Delivered
+2429,21-05-2024,Ravi Kumar,West,Suresh,Electronics,Mouse,3,31348,0.1,94044,Card,Delivered
+2430,24-05-2024,Meena Patel,South,Rahul,Electronics,Router,1,17601,0.0,17601,Card,Delivered
+2431,03-02-2024,Sunil,West,Rahul,Home Decor,Table Lamp,6,24924,0.1,149544,Card,Pending
+2432,25-02-2024,Meena Patel,South,Anita,Electronics,Router,1,34360,0.0,34360,Card,Pending
+2433,02-04-2024,Pooja Singh,South,Rahul,Electronics,Keyboard,4,35129,0.0,140516,Upi,Pending
+2434,17-02-2024,Ravi Kumar,West,Rahul,Electronics,Smart Watch,5,42439,0.0,212195,Card,Pending
+2435,31-01-2024,John Smith,West,Anita,Electronics,Mouse,2,46214,0.1,92428,Card,Pending
+2436,21-03-2024,Meena Patel,East,Anita,Electronics,Laptop,1,43791,0.0,43791,Card,Pending
+2437,03-12-2024,Akash Verma,north,Rahul,Appliances,Mixer Grinder,4,41612,0.1,166448,Cash,Delivered
+2438,02-06-2024,Pooja Singh,north,Anita,Furniture,Sofa Set,5,20816,0.1,104080,Net Banking,Pending
+2439,27-02-2024,Pooja Singh,South,Anita,Electronics,Mobile Phone,6,8591,0.1,51546,Card,Delivered
+2440,20-05-2024,Meena Patel,north,Neha,Electronics,Laptop,4,7101,0.0,28404,Net Banking,Delivered
+2441,04-10-2024,John Smith,West,Suresh,Electronics,Mouse,3,51756,0.1,155268,Card,Pending
+2442,03-03-2024,John Smith,North,Neha,Furniture,Office Chair,6,16539,0.0,99234,Net Banking,Pending
+2443,05-04-2024,John Smith,South,Rahul,Home Decor,Table Lamp,4,14067,0.1,56268,Net Banking,Pending
+2444,31-03-2024,John Smith,West,Rahul,Electronics,Power Bank,1,22452,0.1,22452,Card,Delivered
+2445,20-03-2024,Unknown,East,Neha,Electronics,Mobile Phone,5,11704,0.0,58520,Net Banking,Pending
+2446,04-02-2024,Sunil,East,Rahul,Electronics,Headphones,1,21730,0.1,21730,Cash,Delivered
+2447,24-02-2024,Unknown,West,Anita,Electronics,Mouse,6,23291,0.1,139746,Cash,Pending
+2448,28-01-2024,Ravi Kumar,South,Rahul,Electronics,Mobile Phone,4,26025,0.0,104100,Net Banking,Pending
+2449,18-05-2024,Pooja Singh,East,Amit,Electronics,Keyboard,5,34824,0.0,174120,Upi,Delivered
+2450,20-03-2024,Akash Verma,East,Rahul,Furniture,Office Chair,4,27289,0.0,109156,Card,Delivered
+2451,03-10-2024,John Smith,East,Anita,Furniture,Sofa Set,1,11462,0.0,11462,Card,Delivered
+2452,17-01-2024,Ravi Kumar,north,Amit,Appliances,Mixer Grinder,2,54775,0.0,109550,Upi,Pending
+2453,26-06-2024,Sunil,West,Rahul,Electronics,Mobile Phone,5,33885,0.0,169425,Net Banking,Delivered
+2454,25-06-2024,Sunil,South,Anita,Home Decor,Table Lamp,1,27182,0.1,27182,Card,Pending
+2455,22-03-2024,John Smith,East,Anita,Electronics,Headphones,2,15592,0.1,31184,Net Banking,Pending
+2456,03-05-2024,John Smith,West,Rahul,Electronics,Mobile Phone,5,4908,0.1,24540,Cash,Delivered
+2457,03-06-2024,Akash Verma,West,Anita,Electronics,Router,6,54758,0.1,328548,Card,Pending
+2458,04-11-2024,Akash Verma,South,Neha,Electronics,Mouse,6,1710,0.0,10260,Upi,Pending
+2459,04-03-2024,Unknown,West,Rahul,Electronics,Laptop,1,40641,0.0,40641,Upi,Pending
+2460,05-04-2024,Meena Patel,West,Rahul,Electronics,Laptop,6,15827,0.1,94962,Upi,Delivered
+2461,18-05-2024,Pooja Singh,West,Rahul,Furniture,Office Chair,4,9110,0.1,36440,Upi,Delivered
+2462,02-11-2024,Pooja Singh,north,Rahul,Electronics,Router,2,39789,0.1,79578,Upi,Pending
+2463,04-04-2024,Pooja Singh,East,Anita,Home Decor,Table Lamp,5,9001,0.1,45005,Card,Pending
+2464,02-10-2024,Ravi Kumar,north,Rahul,Electronics,Router,6,21988,0.1,131928,Cash,Delivered
+2465,02-01-2024,Pooja Singh,north,Rahul,Home Decor,Table Lamp,5,45212,0.1,226060,Cash,Delivered
+2466,22-01-2024,Sunil,South,Suresh,Electronics,Router,6,29796,0.0,178776,Card,Delivered
+2467,15-03-2024,Unknown,South,Anita,Furniture,Office Chair,6,6105,0.0,36630,Card,Pending
+2468,16-06-2024,Sunil,north,Anita,Appliances,Mixer Grinder,4,49032,0.0,196128,Card,Pending
+2469,06-07-2024,John Smith,South,Suresh,Electronics,Headphones,1,34365,0.1,34365,Card,Pending
+2470,21-03-2024,Meena Patel,East,Anita,Electronics,Headphones,6,24940,0.1,149640,Upi,Delivered
+2471,16-02-2024,Ravi Kumar,West,Rahul,Furniture,Office Chair,3,38132,0.1,114396,Card,Pending
+2472,05-11-2024,Sunil,West,Neha,Electronics,Keyboard,6,8471,0.1,50826,Card,Delivered
+2473,21-04-2024,Akash Verma,East,Rahul,Electronics,Laptop,4,29120,0.1,116480,Net Banking,Delivered
+2474,30-05-2024,John Smith,West,Anita,Appliances,Mixer Grinder,6,41666,0.1,249996,Card,Delivered
+2475,02-08-2024,Akash Verma,North,Suresh,Electronics,Headphones,2,9026,0.1,18052,Card,Pending
+2476,13-04-2024,Sunil,East,Neha,Electronics,Mobile Phone,4,10853,0.1,43412,Cash,Pending
+2477,23-03-2024,Akash Verma,East,Anita,Electronics,Router,4,7101,0.1,28404,Upi,Delivered
+2478,05-08-2024,Pooja Singh,South,Rahul,Furniture,Office Chair,3,30636,0.1,91908,Cash,Pending
+2479,18-04-2024,John Smith,East,Neha,Electronics,Headphones,5,40277,0.1,201385,Cash,Delivered
+2480,05-02-2024,Ravi Kumar,North,Rahul,Electronics,Headphones,6,9358,0.1,56148,Cash,Pending
+2481,22-02-2024,Sunil,South,Rahul,Home Decor,Table Lamp,1,27699,0.1,27699,Upi,Delivered
+2482,03-02-2024,Unknown,South,Neha,Electronics,Mouse,2,17269,0.1,34538,Upi,Delivered
+2483,05-03-2024,John Smith,West,Rahul,Home Decor,Table Lamp,6,742,0.1,4452,Card,Delivered
+2484,04-10-2024,Akash Verma,South,Anita,Electronics,Mobile Phone,5,35570,0.1,177850,Net Banking,Delivered
+2485,03-12-2024,Akash Verma,South,Anita,Furniture,Sofa Set,3,21550,0.1,64650,Net Banking,Pending
+2486,19-05-2024,Pooja Singh,South,Anita,Electronics,Router,5,15821,0.1,79105,Net Banking,Pending
+2487,24-03-2024,Meena Patel,West,Anita,Home Decor,Table Lamp,6,18249,0.0,109494,Upi,Pending
+2488,07-02-2024,Sunil,West,Amit,Electronics,Smart Watch,6,32014,0.1,192084,Upi,Pending
+2489,01-09-2024,Unknown,North,Suresh,Furniture,Sofa Set,5,51571,0.1,257855,Upi,Delivered
+2490,19-02-2024,Pooja Singh,north,Rahul,Furniture,Sofa Set,6,10880,0.0,65280,Card,Pending
+2491,19-03-2024,Ravi Kumar,East,Rahul,Furniture,Sofa Set,6,8124,0.1,48744,Card,Delivered
+2492,21-06-2024,Ravi Kumar,West,Anita,Electronics,Mobile Phone,5,33762,0.1,168810,Cash,Delivered
+2493,01-06-2024,Meena Patel,South,Anita,Furniture,Sofa Set,6,28711,0.1,172266,Card,Delivered
+2494,02-02-2024,Meena Patel,West,Rahul,Electronics,Laptop,4,5568,0.1,22272,Net Banking,Pending
+2495,26-01-2024,Unknown,north,Rahul,Electronics,Keyboard,3,47776,0.1,143328,Card,Delivered
+2496,15-01-2024,John Smith,South,Rahul,Electronics,Smart Watch,1,50521,0.1,50521,Net Banking,Delivered
+2497,02-04-2024,Sunil,South,Neha,Electronics,Power Bank,3,9784,0.1,29352,Net Banking,Delivered
+2498,19-06-2024,Meena Patel,South,Anita,Electronics,Headphones,6,4393,0.1,26358,Card,Pending
+2499,15-05-2024,Unknown,South,Rahul,Furniture,Office Chair,3,34779,0.0,104337,Card,Pending
+2500,24-01-2024,John Smith,East,Suresh,Electronics,Laptop,3,13909,0.1,41727,Card,Delivered
